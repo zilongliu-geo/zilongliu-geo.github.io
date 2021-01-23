@@ -5,7 +5,7 @@
       <p><b>M.A./Ph.D. Student </b></p>
       <p><b>Department of Geography, University of California, Santa Barbara</b></p>
       <p><b>Email: zilongliu@ucsb.edu</b></p>
-      <p>I study how people perceive the world from the perspective of geographic information science. Currently I am interested in place names.
+      <p>I study how people perceive the world from the perspective of geographic information science. Currently I am interested in place names and their implications.
     </td>
   </tr>
 </table>
