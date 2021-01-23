@@ -13,8 +13,8 @@
 
 ### Education
 
-#### M.A./Ph.D. in Geography, University of California, Santa Barbara (09/2020 - Now)
-#### B.S. in Geographic Information Science, East China Normal University (09/2016-07/2020)
+- M.A./Ph.D. in Geography, University of California, Santa Barbara (09/2020 - Now)
+- B.S. in Geographic Information Science, East China Normal University (09/2016-07/2020)
 
 ### Research Interests
 
