@@ -11,11 +11,15 @@
 </table>
 
 ### Education
-
-- M.A./Ph.D. in Geography, University of California, Santa Barbara (09/2020 - Now)
-- B.S. in Geographic Information Science, East China Normal University (09/2016-07/2020)
+#### University of California, Santa Barbara (09/2020 - Now)
+- **M.A./Ph.D., Geography**
+#### East China Normal University (09/2016-07/2020)
+- **B.S., Geographic Information Science**
 
 ### Research Interests
-
 - Geospatial Semantics
 - Spatial Data Science
+
+### Teaching Experience
+- Geographic Information Systems and Science (GEOG 176A)
+- Technical GIS (GEOG 176B)
