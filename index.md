@@ -19,5 +19,5 @@
 - Spatial Data Science
 
 ### Teaching Assistantship
-- Geographic Information Systems and Science (GEOG 176A)
-- Technical GIS (GEOG 176B)
+- GEOG 176B, Technical GIS (Winter 2021)
+- GEOG 176A, Geographic Information Systems and Science (Fall 2020)
