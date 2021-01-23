@@ -1,12 +1,11 @@
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="100%">
       <h1>Zilong Liu</h1>
       <p><b>M.A./Ph.D. Student </b></p>
       <p><b>Department of Geography, University of California, Santa Barbara</b></p>
       <p><b>Email: zilongliu@ucsb.edu</b></p>
-    </td>
-    <td width="25%">
+      <p>I study how people perceive the world from the perspective of geographic information science. Currently I am interested in place names.
     </td>
   </tr>
 </table>
