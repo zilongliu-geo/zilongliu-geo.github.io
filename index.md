@@ -16,7 +16,7 @@
 
 ### Research Interests
 - Geospatial Semantics
-- Spatial Data Science
+- Geographic Knowledge Graphs
 
 ### Teaching Assistantship
 - GEOG 176B, Technical GIS (Winter 2021)
