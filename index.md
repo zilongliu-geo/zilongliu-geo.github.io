@@ -21,8 +21,8 @@
 - Spatial Data Science
 
 ### Publications
-- Krzysztof Janowicz, Cogan Shimizu, Pascal Hitzler, Gengchen Mai, Shirly Stephen, Rui Zhu, Ling Cai, Lu Zhou, Mark Schildhauer, Zilong Liu, Zhangyu Wang, Meilin Shi. Diverse Data! Diverse Schemata?. Semantic Web Journal, 2021.
-- Rui Zhu, Ling Cai, Gengchen Mai, Cogan Shimizu, Colby K. Fisher, Krzysztof Janowicz, Anna Lopez-Carr, Andrew Schroeder, Mark Schildhauer, Yuanyuan Tian, Shirly Stephen, Zilong Liu. Providing Humanitarian Relief Support through Knowledge Graphs, In: Proceedings of ACM K-CAP 2021, Dec. 02 - 03, 2021, Virtual Conference.
+- Krzysztof Janowicz, Cogan Shimizu, Pascal Hitzler, Gengchen Mai, Shirly Stephen, Rui Zhu, Ling Cai, Lu Zhou, Mark Schildhauer, **Zilong Liu**, Zhangyu Wang, Meilin Shi. Diverse Data! Diverse Schemata?. Semantic Web Journal, 2021.
+- Rui Zhu, Ling Cai, Gengchen Mai, Cogan Shimizu, Colby K. Fisher, Krzysztof Janowicz, Anna Lopez-Carr, Andrew Schroeder, Mark Schildhauer, Yuanyuan Tian, Shirly Stephen, **Zilong Liu**. Providing Humanitarian Relief Support through Knowledge Graphs, In: Proceedings of ACM K-CAP 2021, Dec. 02 - 03, 2021, Virtual Conference.
 
 ### Teaching Assistantship
 - GEOG 176B, Technical GIS (Winter 2021)
