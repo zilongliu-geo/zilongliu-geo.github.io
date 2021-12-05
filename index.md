@@ -6,7 +6,7 @@
       <p><b>Department of Geography, UC Santa Barbara</b></p>
       <p><b>Email: zilongliu@ucsb.edu</b></p>
       <p>I study how people perceive the world from the perspective of geographic information science. Currently I am interested in place names and their implications.</p>
-      <img src="github.jpg"/>
+      <img src="github.jpg" height="20%" width="20%"/>
     </td>
   </tr>
 </table>
