@@ -2,12 +2,12 @@
   <tr>
     <td width="100%">
       <h1>Zilong Liu</h1>
-      <p><b>M.A./Ph.D. Student </b></p>
-      <p><b>Department of Geography, UC Santa Barbara</b></p>
+      <p><b>M.A./Ph.D. Student</b></p>
+      <p><b><a href="https://github.com/stko-lab">STKO Lab</a></b></p>
+      <p><b><a href="https://www.geog.ucsb.edu">Department of Geography</a>, <a href="https://www.ucsb.edu">UC Santa Barbara</a></b></p>
       <p><b>Email: zilongliu@ucsb.edu</b></p>
-      <p>I study how people perceive the world from the perspective of geographic information science. Currently I am interested in place names and their implications.</p>
+      <p>I study how people perceive the world from the perspective of geographic information science. Currently I am a graduate student researcher working at <a href="http://spatial.ucsb.edu">Center for Spatial Studies</a> on <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2033521&HistoricalAwards=false">KnowWhereGraph</a>.</p>
       <a href="https://scholar.google.com/citations?user=UqappoUAAAAJ&hl=en"><img src="google-scholar.png" height="10%" width="10%"/></a>
-      <a href="https://github.com/stko-lab"><img src="stko_logo.png" /></a>
     </td>
   </tr>
 </table>
