@@ -7,7 +7,7 @@
       <p><b>Email: zilongliu@ucsb.edu</b></p>
       <p>I study how people perceive the world from the perspective of geographic information science. Currently I am interested in place names and their implications.</p>
       <a href="https://scholar.google.com/citations?user=UqappoUAAAAJ&hl=en"><img src="google-scholar.png" height="10%" width="10%"/></a>
-      <a href="https://github.com/stko-lab"><img src="stko_logo.png" height="200px" width="200px"/></a>
+      <a href="https://github.com/stko-lab"><img src="stko_logo.png" /></a>
     </td>
   </tr>
 </table>
