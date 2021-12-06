@@ -5,7 +5,7 @@
       <p><b>M.A./Ph.D. Student</b></p>
       <p><b><a href="https://github.com/stko-lab">STKO Lab</a></b></p>
       <p><b><a href="https://www.geog.ucsb.edu">Department of Geography</a>, <a href="https://www.ucsb.edu">UC Santa Barbara</a></b></p>
-      <p><b>Email: zilongliu@ucsb.edu</b></p>
+      <p><b>Email: <a href="mailto:zilongliu@ucsb.edu">zilongliu@ucsb.edu</a></b></p>
       <p>I study how people perceive the world from the perspective of geographic information science. Currently I am a graduate student researcher working at <a href="http://spatial.ucsb.edu">Center for Spatial Studies</a> on <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2033521&HistoricalAwards=false">KnowWhereGraph</a>.</p>
       <a href="https://scholar.google.com/citations?user=UqappoUAAAAJ&hl=en"><img src="google-scholar.png" height="10%" width="10%"/></a>
     </td>
@@ -23,8 +23,8 @@
 - Spatial Data Science
 
 ### Publications
-- Krzysztof Janowicz, Cogan Shimizu, Pascal Hitzler, Gengchen Mai, Shirly Stephen, Rui Zhu, Ling Cai, Lu Zhou, Mark Schildhauer, **Zilong Liu**, Zhangyu Wang, Meilin Shi. Diverse Data! Diverse Schemata?. Semantic Web Journal, 2021.
-- Rui Zhu, Ling Cai, Gengchen Mai, Cogan Shimizu, Colby K. Fisher, Krzysztof Janowicz, Anna Lopez-Carr, Andrew Schroeder, Mark Schildhauer, Yuanyuan Tian, Shirly Stephen, **Zilong Liu**. Providing Humanitarian Relief Support through Knowledge Graphs, In: Proceedings of ACM K-CAP 2021, Dec. 02 - 03, 2021, Virtual Conference.
+- Krzysztof Janowicz, Cogan Shimizu, Pascal Hitzler, Gengchen Mai, Shirly Stephen, Rui Zhu, Ling Cai, Lu Zhou, Mark Schildhauer, **Zilong Liu**, Zhangyu Wang, Meilin Shi. <a href="https://content.iospress.com/download/semantic-web/sw210453?id=semantic-web%2Fsw210453">Diverse Data! Diverse Schemata?</a>. Semantic Web Journal, 2021.
+- Rui Zhu, Ling Cai, Gengchen Mai, Cogan Shimizu, Colby K. Fisher, Krzysztof Janowicz, Anna Lopez-Carr, Andrew Schroeder, Mark Schildhauer, Yuanyuan Tian, Shirly Stephen, **Zilong Liu**. <a href="https://dl.acm.org/doi/pdf/10.1145/3460210.3493581">Providing Humanitarian Relief Support through Knowledge Graphs</a>, In: Proceedings of ACM K-CAP 2021, Dec. 02 - 03, 2021, Virtual Conference.
 
 ### Teaching Assistantship
 - GEOG 176B, Technical GIS (Winter 2021)
