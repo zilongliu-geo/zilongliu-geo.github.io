@@ -33,3 +33,4 @@
 
 ### Awards
 - Jack and Laura Dangermond Scholarship (Spring 2021)
+- China National Scholarship (2017)
