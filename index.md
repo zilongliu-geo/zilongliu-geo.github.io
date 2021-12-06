@@ -3,10 +3,11 @@
     <td width="100%">
       <h1>Zilong Liu</h1>
       <p><b>M.A./Ph.D. Student</b></p>
-      <p><b><a href="https://github.com/stko-lab">STKO Lab</a></b></p>
-      <p><b><a href="https://www.geog.ucsb.edu">Department of Geography</a>, <a href="https://www.ucsb.edu">UC Santa Barbara</a></b></p>
+      <p><b>STKO Lab</b></p>
+      <p><b>Department of Geography, UC Santa Barbara</b></p>
       <p><b>Email: <a href="mailto:zilongliu@ucsb.edu">zilongliu@ucsb.edu</a></b></p>
-      <p>I study how people perceive the world from the perspective of geographic information science. Currently I am a graduate student researcher working at <a href="http://spatial.ucsb.edu">Center for Spatial Studies</a> on <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2033521&HistoricalAwards=false">KnowWhereGraph</a>.</p>
+      <p>I study how people perceive the world from the perspective of geographic information science. Currently I am a graduate student researcher working at <a href="http://spatial.ucsb.edu">Center for Spatial Studies</a> on <a href="http://knowwheregraph.org">KnowWhereGraph</a>.</p>
+      <p>Now I am a M.A./Ph.D. student at the <a href="https://www.geog.ucsb.edu">Department of Geography</a> in <a href="https://www.ucsb.edu">University of California, Santa Barbara. Also, I am a lab member of the <a href="https://github.com/stko-lab">STKO Lab</a> that investigates the role of Space and Time for Knowledge Organization.</a>Before that, I obtained my bachelor's degree at the <a href="http://www.geo.ecnu.edu.cn/?classid=9193">School of Geographic Sciences</a> in <a href="https://english.ecnu.edu.cn">East China Normal University</a></p>
       <a href="https://scholar.google.com/citations?user=UqappoUAAAAJ&hl=en"><img src="google-scholar.png" height="10%" width="10%"/></a>
     </td>
   </tr>
