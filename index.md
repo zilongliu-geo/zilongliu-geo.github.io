@@ -3,7 +3,7 @@
     <td width="100%">
       <h1>Zilong Liu</h1>
       <p><b>M.A./Ph.D. Student</b></p>
-      <p><b>STKO Lab</b></p>
+      <p><b>Space and Time Knowledge Organization (STKO) Lab</b></p>
       <p><b>Department of Geography, UC Santa Barbara</b></p>
       <p><b>Email: <a href="mailto:zilongliu@ucsb.edu">zilongliu@ucsb.edu</a></b></p>
       <p>I study how people perceive the world from a geodiversity perspective by integrating both theory-driven and data-driven techniques. Currently I am a graduate student researcher working at <a href="http://spatial.ucsb.edu">Center for Spatial Studies</a> on <a href="http://knowwheregraph.org">KnowWhereGraph</a>.</p>
