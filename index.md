@@ -22,7 +22,7 @@
 - GIScience
 - Semantics
 - Knowledge Graphs
-- Information Visualization
+- Scientometrics
 
 ### Publications
 - Krzysztof Janowicz, Cogan Shimizu, Pascal Hitzler, Gengchen Mai, Shirly Stephen, Rui Zhu, Ling Cai, Lu Zhou, Mark Schildhauer, **Zilong Liu**, Zhangyu Wang, Meilin Shi. <a href="https://content.iospress.com/download/semantic-web/sw210453?id=semantic-web%2Fsw210453">Diverse Data! Diverse Schemata?</a>. Semantic Web Journal, 2021.
