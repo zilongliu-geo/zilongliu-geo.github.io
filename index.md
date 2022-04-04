@@ -37,5 +37,5 @@
 - China National Scholarship (2017), East China Normal University
 
 ### Information Visualization Demos
-- Hazard Entity Rainfall in KnowWhereGraph-V3, Center for Spatial Studies
+- MAT 259A, Hazard Entity Rainfall in KnowWhereGraph-V3 (Winter 2022), University of California, Santa Barbara
 <iframe width="500" height="281" src="https://www.youtube.com/embed/X-KcjtGzTrM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
