@@ -4,7 +4,6 @@
       <h1>Zilong Liu</h1>
       <p><b>Ph.D. Student</b></p>
       <p><b>Space and Time Knowledge Organization (STKO) Lab</b></p>
-      <p><b>Department of Geography, UC Santa Barbara</b></p>
       <p><b>Email: <a href="mailto:zilongliu@ucsb.edu">zilongliu@ucsb.edu</a></b></p>
       <p><b>Join us in ESWC 2022 to see <a href="https://2022.eswc-conferences.org/accepted-papers/">LD Connect: A Linked Data Portal for IOS Press Scientometrics</a>!</b></p>
       <p>I study spatial-temporal knowledge representation and reasoning by integrating both theory-driven (e.g., geospatial semantics) and data-driven (e.g., deep learning) techniques. Currently I am a graduate student researcher working at <a href="http://spatial.ucsb.edu">Center for Spatial Studies</a> on faceted search development and ontology engineering for <a href="http://knowwheregraph.org">KnowWhereGraph</a>. In the meantime, I am collaborating with <a href="https://globalengagement.ucsb.edu/">UC Santa Barbara Global Engagement</a> for UCSB Global Engagement Map development.</p>
@@ -25,8 +24,11 @@
 - Geospatial Semantics
 
 ### Publications
-- Krzysztof Janowicz, Cogan Shimizu, Pascal Hitzler, Gengchen Mai, Shirly Stephen, Rui Zhu, Ling Cai, Lu Zhou, Mark Schildhauer, **Zilong Liu**, Zhangyu Wang, Meilin Shi. <a href="https://content.iospress.com/download/semantic-web/sw210453?id=semantic-web%2Fsw210453">Diverse Data! Diverse Schemata?</a>. Semantic Web Journal, 2021.
-- Rui Zhu, Ling Cai, Gengchen Mai, Cogan Shimizu, Colby K. Fisher, Krzysztof Janowicz, Anna Lopez-Carr, Andrew Schroeder, Mark Schildhauer, Yuanyuan Tian, Shirly Stephen, **Zilong Liu**. <a href="https://dl.acm.org/doi/pdf/10.1145/3460210.3493581">Providing Humanitarian Relief Support through Knowledge Graphs</a>, In: Proceedings of ACM K-CAP 2021, Dec. 02 - 03, 2021, Virtual Conference.
+- Janowicz, K., Hitzler, P., Li, W., Rehberger, D., Schildhauer, M., Zhu, R., ... & Currier, K. (2022). <a href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/aaai.12043">Know, Know Where, KnowWhereGraph: A densely connected, cross‐domain knowledge graph and geo‐enrichment service stack for applications in environmental intelligence</a>. AI Magazine, 43(1), 30-39.
+- <b>Liu, Z.</b>, Shi, M., Janowicz, K., Regalia, B., Delbecque, S., Mai, G., ... & Hitzler, P. <a href="https://people.cs.ksu.edu/~hitzler/pub2/2022-ESWC-LDConnect.pdf">LD Connect: A Linked Data Portal for IOS Press Scientometrics</a>.
+- Janowicz, K., Shimizu, C., Hitzler, P., Mai, G., Stephen, S., Zhu, R., ... & Shi, M. (2022). <a href="https://content.iospress.com/download/semantic-web/sw210453?id=semantic-web%2Fsw210453">Diverse data! Diverse schemata?</a>. Semantic Web, 13(1), 1-3.
+- Zhu, R., Cai, L., Mai, G., Shimizu, C., Fisher, C. K., Janowicz, K., ... & <b>Liu, Z</b>. (2021, December). <a href="https://dl.acm.org/doi/pdf/10.1145/3460210.3493581">Providing Humanitarian Relief Support through Knowledge Graphs</a>. In Proceedings of the 11th on Knowledge Capture Conference (pp. 285-288).
+- 
 
 ### Teaching Assistantship
 - GEOG 176B, Technical GIS (Winter 2021)
