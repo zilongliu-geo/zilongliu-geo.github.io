@@ -28,7 +28,6 @@
 - <b>Liu, Z.</b>, Shi, M., Janowicz, K., Regalia, B., Delbecque, S., Mai, G., ... & Hitzler, P. <a href="https://people.cs.ksu.edu/~hitzler/pub2/2022-ESWC-LDConnect.pdf">LD Connect: A Linked Data Portal for IOS Press Scientometrics</a>.
 - Janowicz, K., Shimizu, C., Hitzler, P., Mai, G., Stephen, S., Zhu, R., ... & Shi, M. (2022). <a href="https://content.iospress.com/download/semantic-web/sw210453?id=semantic-web%2Fsw210453">Diverse data! Diverse schemata?</a>. Semantic Web, 13(1), 1-3.
 - Zhu, R., Cai, L., Mai, G., Shimizu, C., Fisher, C. K., Janowicz, K., ... & <b>Liu, Z</b>. (2021, December). <a href="https://dl.acm.org/doi/pdf/10.1145/3460210.3493581">Providing Humanitarian Relief Support through Knowledge Graphs</a>. In Proceedings of the 11th on Knowledge Capture Conference (pp. 285-288).
-- 
 
 ### Teaching Assistantship
 - GEOG 176B, Technical GIS (Winter 2021)
