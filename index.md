@@ -1,7 +1,6 @@
 <table border="0">
   <tr>
     <td width="100%">
-      <h1>Zilong Liu</h1>
       <p><b>Ph.D. Student</b></p>
       <p><b>Space and Time Knowledge Organization (STKO) Lab</b></p>
       <p><b>Email: <a href="mailto:zilongliu@ucsb.edu">zilongliu@ucsb.edu</a></b></p>
