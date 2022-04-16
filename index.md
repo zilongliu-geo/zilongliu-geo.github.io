@@ -4,7 +4,7 @@
       <p><b>Ph.D. Student</b></p>
       <p><b>Space and Time Knowledge Organization (STKO) Lab</b></p>
       <p><b>Email: <a href="mailto:zilongliu@ucsb.edu">zilongliu@ucsb.edu</a></b></p>
-      <p>I study spatial-temporal knowledge representation and reasoning by integrating both theory-driven (e.g., geospatial semantics) and data-driven (e.g., deep learning) techniques. Currently I am a graduate student researcher working at <a href="http://spatial.ucsb.edu">Center for Spatial Studies</a> on faceted search development and ontology engineering for <a href="http://knowwheregraph.org">KnowWhereGraph</a>.</p>
+      <p>I study knowledge representation and reasoning by integrating both theory-driven and data-driven techniques, ranging from spatial representation learning to neuro-symbolic artificial intelligence. Currently I am a graduate student researcher working at <a href="http://spatial.ucsb.edu">Center for Spatial Studies</a> on faceted search development and ontology engineering for <a href="http://knowwheregraph.org">KnowWhereGraph</a>.</p>
       <p>Now I am a Ph.D. student at the <a href="https://www.geog.ucsb.edu">Department of Geography</a> in <a href="https://www.ucsb.edu">University of California, Santa Barbara</a>, where I also obtained my master degree. Advised by <a href="https://www.geog.ucsb.edu/people/faculty/krzysztof-janowicz">Prof. Krzysztof Janowicz</a>, I am also a lab member of the <a href="https://github.com/stko-lab">STKO Lab</a> that investigates the role of Space and Time for Knowledge Organization. Before that, I obtained my bachelor's degree at the <a href="http://www.geo.ecnu.edu.cn/?classid=9193">School of Geographic Sciences</a> in <a href="https://english.ecnu.edu.cn">East China Normal University</a>.</p>
       <a href="https://scholar.google.com/citations?user=UqappoUAAAAJ&hl=en"><img src="google-scholar.png" height="10%" width="10%"/></a>
     </td>
@@ -18,8 +18,9 @@
 
 ### Research Interests
 - Knowledge Graphs
-- GIScience
+- GeoAI
 - Geospatial Semantics
+- GIScience
 
 ### Publications
 - Janowicz, K., Hitzler, P., Li, W., Rehberger, D., Schildhauer, M., Zhu, R., ... & Currier, K. (2022). <a href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/aaai.12043">Know, Know Where, KnowWhereGraph: A densely connected, cross‐domain knowledge graph and geo‐enrichment service stack for applications in environmental intelligence</a>. AI Magazine, 43(1), 30-39.
@@ -36,6 +37,10 @@
 - Jack and Laura Dangermond Scholarship, University of California, Santa Barbara (Spring 2021)
 - China National Scholarship, East China Normal University (2017)
 
-### Information Visualization Demos
-- MAT 259A, <a href="https://vislab.mat.ucsb.edu/2022/p3/ZilongLiu/Project3_Zilong_Liu.html">Hazard Entity Rainfall in KnowWhereGraph-V3</a>, University of California, Santa Barbara (Winter 2022)
-- MAT 259A, <a href="https://vislab.mat.ucsb.edu/2022/p2/ZilongLiu/Project2_Zilong_Liu.html">Place Names in the Semantic Space</a>, University of California, Santa Barbara (Winter 2022)
+### Research Projects
+- <a href="https://stko-kwg.geog.ucsb.edu/">KnowWhereGraph Explorer</a> (09/2021 - Present)
+- <a href="http://stko-roy.geog.ucsb.edu:7200/iospress_scientometrics/">IOS Press Scientometrics</a> (04/2021 - 12/2021)
+
+### Data Visualizations
+- <a href="https://vislab.mat.ucsb.edu/2022/p3/ZilongLiu/Project3_Zilong_Liu.html">Hazard Entity Rainfall in KnowWhereGraph-V3</a> (01/2022 - 03/2022)
+- <a href="https://vislab.mat.ucsb.edu/2022/p2/ZilongLiu/Project2_Zilong_Liu.html">Place Names in the Semantic Space</a> (01/2022 - 03/2022)
