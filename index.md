@@ -28,14 +28,14 @@
 - Zhu, R., Cai, L., Mai, G., Shimizu, C., Fisher, C. K., Janowicz, K., ... & <b>Liu, Z</b>. (2021, December). <a href="https://dl.acm.org/doi/pdf/10.1145/3460210.3493581">Providing Humanitarian Relief Support through Knowledge Graphs</a>. In Proceedings of the 11th on Knowledge Capture Conference (pp. 285-288).
 
 ### Teaching Assistantship
-- GEOG 176B, Technical GIS (Winter 2021), University of California, Santa Barbara
-- GEOG 176A, Geographic Information Systems and Science (Fall 2020), University of California, Santa Barbara
+- GEOG 176B, Technical GIS, University of California, Santa Barbara (Winter 2021)
+- GEOG 176A, Geographic Information Systems and Science, University of California, Santa Barbara (Fall 2020)
 
 ### Awards
-- Jack and Laura Dangermond Travel Scholarship for <a href="https://2022.eswc-conferences.org/">ESWC 2022</a> (Spring 2022), University of California, Santa Barbara
-- Jack and Laura Dangermond Scholarship (Spring 2021), University of California, Santa Barbara
-- China National Scholarship (2017), East China Normal University
+- Jack and Laura Dangermond Travel Scholarship for <a href="https://2022.eswc-conferences.org/">ESWC 2022</a>, University of California, Santa Barbara (Spring 2022)
+- Jack and Laura Dangermond Scholarship, University of California, Santa Barbara (Spring 2021)
+- China National Scholarship, East China Normal University (2017)
 
 ### Information Visualization Demos
-- MAT 259A, Hazard Entity Rainfall in KnowWhereGraph-V3 (Winter 2022), University of California, Santa Barbara
-<iframe width="500" height="281" src="https://www.youtube.com/embed/X-KcjtGzTrM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- MAT 259A, <a href="https://vislab.mat.ucsb.edu/2022/p3/ZilongLiu/Project3_Zilong_Liu.html">Hazard Entity Rainfall in KnowWhereGraph-V3</a>, University of California, Santa Barbara (Winter 2022)
+- MAT 259A, <a href="https://vislab.mat.ucsb.edu/2022/p2/ZilongLiu/Project2_Zilong_Liu.html">Place Names in the Semantic Space</a>, University of California, Santa Barbara (Winter 2022)
