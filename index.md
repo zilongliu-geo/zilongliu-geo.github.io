@@ -38,7 +38,7 @@
 - China National Scholarship, East China Normal University (2017)
 
 ### Research Projects
-- <a href="https://stko-kwg.geog.ucsb.edu/">KnowWhereGraph Explorer</a> (09/2021 - Present)
+- <a href="https://stko-kwg.geog.ucsb.edu/">Knowledge Explorer</a> (09/2021 - Present)
 - <a href="http://stko-roy.geog.ucsb.edu:7200/iospress_scientometrics/">IOS Press Scientometrics</a> (04/2021 - 12/2021)
 
 ### Data Visualizations
