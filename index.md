@@ -24,7 +24,7 @@
 
 ### Publications
 - Janowicz, K., Hitzler, P., Li, W., Rehberger, D., Schildhauer, M., Zhu, R., ... & Currier, K. (2022). <a href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/aaai.12043">Know, Know Where, KnowWhereGraph: A densely connected, cross‐domain knowledge graph and geo‐enrichment service stack for applications in environmental intelligence</a>. AI Magazine, 43(1), 30-39.
-- <b>Liu, Z.</b>, Shi, M., Janowicz, K., Regalia, B., Delbecque, S., Mai, G., ... & Hitzler, P. <a href="https://people.cs.ksu.edu/~hitzler/pub2/2022-ESWC-LDConnect.pdf">LD Connect: A Linked Data Portal for IOS Press Scientometrics</a>.
+- <b>Liu, Z.</b>, Shi, M., Janowicz, K., Regalia, B., Delbecque, S., Mai, G., ... & Hitzler, P. <a href="https://people.cs.ksu.edu/~hitzler/pub2/2022-ESWC-LDConnect.pdf">LD Connect: A Linked Data Portal for IOS Press Scientometrics</a>. <a href="https://github.com/stko-lab/LD-Connect">[repo]</a> <a href="http://stko-roy.geog.ucsb.edu:7200/iospress_scientometrics">[demo]</a>
 - Janowicz, K., Shimizu, C., Hitzler, P., Mai, G., Stephen, S., Zhu, R., ... & Shi, M. (2022). <a href="https://content.iospress.com/download/semantic-web/sw210453?id=semantic-web%2Fsw210453">Diverse data! Diverse schemata?</a>. Semantic Web, 13(1), 1-3.
 - Zhu, R., Cai, L., Mai, G., Shimizu, C., Fisher, C. K., Janowicz, K., ... & <b>Liu, Z</b>. (2021, December). <a href="https://dl.acm.org/doi/pdf/10.1145/3460210.3493581">Providing Humanitarian Relief Support through Knowledge Graphs</a>. In Proceedings of the 11th on Knowledge Capture Conference (pp. 285-288).
 
