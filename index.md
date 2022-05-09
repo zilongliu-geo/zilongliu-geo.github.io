@@ -33,6 +33,7 @@
 - GEOG 176A, Geographic Information Systems and Science, University of California, Santa Barbara (Fall 2020)
 
 ### Awards
+- <a href="https://agile-online.org/index.php/conference-2022/grants-2022">AGILE 2022 Grant</a>, ESRI and AGILE (2022)
 - Jack and Laura Dangermond Travel Scholarship for <a href="https://2022.eswc-conferences.org/">ESWC 2022</a>, University of California, Santa Barbara (Spring 2022)
 - Jack and Laura Dangermond Scholarship, University of California, Santa Barbara (Spring 2021)
 - China National Scholarship, East China Normal University (2017)
