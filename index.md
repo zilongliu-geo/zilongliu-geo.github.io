@@ -23,6 +23,7 @@
 - GIScience
 
 ### Publications
+- <b>Liu, Z.</b>, Gu, Z., Thelen, T., Estrecha, S. G., Zhu, R., Fisher, C. K., ... & Hitzler, P. (2022, November). <a href="https://doi.org/10.1145/3557915.3561009">Knowledge explorer: exploring the 12-billion-statement KnowWhereGraph using faceted search (demo paper)</a>. In Proceedings of the 30th International Conference on Advances in Geographic Information Systems (pp. 1-4). <a href="https://github.com/KnowWhereGraph/kwg-faceted-search">[repo]</a> <a href="https://stko-kwg.geog.ucsb.edu/">[demo]</a> <span style="color:red">*Best Demo Runner-Up</span>
 - Goodchild, M.F., Appelbaum R., Crampton, J., Herbert, W.A., Janowicz, K., Kwan, M.-P., Michael, K., Alvarez León, L. F., Bennett, M., Cole, D.G., Currier, K., Fast, V., Hirsch, J., Kattenbeck, M., Kedron, P., Kerski, J., <b>Liu, Z.</b>, Nelson, T., Shulruff, T., Sieber, R.E., Wertman, J., Wilmott, C., Zhao, B., Zhu, R., Nilupaer, J., Dony, C.C., Langham, G. (2022). <a href="https://doi.org/10.14433/2017.0113">A White Paper on Locational Information and the Public Interest</a>. American Association of Geographers.
 - <b>Liu, Z.</b>, Janowicz, K., Cai, L., Zhu, R., Mai, G., & Shi, M. (2022). <a href="https://agile-giss.copernicus.org/articles/3/9/2022/agile-giss-3-9-2022.pdf">Geoparsing: Solved or Biased? An Evaluation of Geographic Biases in Geoparsing</a>. AGILE: GIScience Series, 3, 1-13. <a href="https://github.com/zilongliu-geo/Geoparsing-Solved-Or-Biased">[repo]</a>
 - Janowicz, K., Hitzler, P., Li, W., Rehberger, D., Schildhauer, M., Zhu, R., ... & Currier, K. (2022). <a href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/aaai.12043">Know, Know Where, KnowWhereGraph: A densely connected, cross‐domain knowledge graph and geo‐enrichment service stack for applications in environmental intelligence</a>. AI Magazine, 43(1), 30-39.
@@ -40,10 +41,6 @@
 - Jack and Laura Dangermond Travel Scholarship for <a href="https://2022.eswc-conferences.org/">ESWC 2022</a>, University of California, Santa Barbara (Spring 2022)
 - Jack and Laura Dangermond Scholarship, University of California, Santa Barbara (Spring 2021)
 - China National Scholarship, East China Normal University (2017)
-
-### Research Projects
-- <a href="https://stko-kwg.geog.ucsb.edu/">Knowledge Explorer</a> (09/2021 - Present)
-- <a href="http://stko-roy.geog.ucsb.edu:7200/iospress_scientometrics/">IOS Press Scientometrics</a> (04/2021 - 12/2021)
 
 ### Data Visualizations
 - <a href="https://vislab.mat.ucsb.edu/2022/p3/ZilongLiu/Project3_Zilong_Liu.html">Hazard Entity Rainfall in KnowWhereGraph-V3</a> (01/2022 - 03/2022)
