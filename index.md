@@ -4,8 +4,8 @@
       <p><b>Ph.D. Student</b></p>
       <p><b>Space and Time Knowledge Organization (STKO) Lab</b></p>
       <p><b>Email: <a href="mailto:zilong.liu@univie.ac.at">zilong.liu@univie.ac.at</a></b></p>
-      <p>I study knowledge representation and reasoning by integrating both theory-driven and data-driven techniques, ranging from spatially-explicit machine learning to neuro-symbolic artificial intelligence. Currently I am a University Assistant (predoc) working at <a href="https://visess.univie.ac.at">Vienna International School of Earth and Space Sciences</a> on <a href="https://visess.univie.ac.at/how-to-apply/visess-2022-spring-call-phd-projects/knowledge-graph-based-geoenrichment-for-environmental-intelligence/">Knowledge Graph-based GeoEnrichment for Environmental Intelligence</a>.</p>
-      <p>Now I am a Ph.D. student at the <a href="https://geographie.univie.ac.at/en/">Department of Geography and Regional Research</a> in <a href="https://www.univie.ac.at/en/">University of Vienna</a>. Advised by <a href="https://www.geog.ucsb.edu/people/faculty/krzysztof-janowicz">Prof. Krzysztof Janowicz</a>, I am also a lab member of the <a href="https://github.com/stko-lab">STKO Lab</a> that investigates the role of Space and Time for Knowledge Organization. I obtained my master's degree at <a href="https://www.geog.ucsb.edu">Department of Geography</a> in <a href="https://www.ucsb.edu">University of California, Santa Barbara</a>. Before that, I obtained my bachelor's degree at the <a href="http://www.geo.ecnu.edu.cn/?classid=9193">School of Geographic Sciences</a> in <a href="https://english.ecnu.edu.cn">East China Normal University</a>.</p>
+      <p>I study how humans understand (e.g., perceive, categorize, conceptualize) the world from a geographic information science perspective. Much of my recent work is carried out in collaboration with the <a href="https://www.knowwheregraph.org">KnowWhereGraph</a> community. Topics include platial variability, semantic interoperability, geography of AI ethics, spatial and temporal principles of knowledge graphs, etc. Currently, I am a University Assistant (predoc) working at <a href="https://visess.univie.ac.at">Vienna International School of Earth and Space Sciences</a> on <a href="https://visess.univie.ac.at/how-to-apply/visess-2022-spring-call-phd-projects/knowledge-graph-based-geoenrichment-for-environmental-intelligence/">Knowledge Graph-based GeoEnrichment for Environmental Intelligence</a>.</p>
+      <p>Now I am a Ph.D. student associated with the working group of <a href="https://geographie.univie.ac.at/arbeitsgruppen/kartographie-und-geoinformation/">Spatial Data Science and Geocommunication</a> at the <a href="https://geographie.univie.ac.at/en/">Department of Geography and Regional Research</a> in <a href="https://www.univie.ac.at/en/">University of Vienna</a>. Advised by <a href="https://www.geog.ucsb.edu/people/faculty/krzysztof-janowicz">Prof. Krzysztof Janowicz</a>, I am also a lab member of the <a href="https://github.com/stko-lab">STKO Lab</a> that investigates the role of Space and Time for Knowledge Organization. I obtained my master's degree at <a href="https://www.geog.ucsb.edu">Department of Geography</a> in <a href="https://www.ucsb.edu">University of California, Santa Barbara</a>. Before that, I obtained my bachelor's degree at the <a href="http://www.geo.ecnu.edu.cn/?classid=9193">School of Geographic Sciences</a> in <a href="https://english.ecnu.edu.cn">East China Normal University</a>.</p>
       <a href="https://scholar.google.com/citations?user=UqappoUAAAAJ&hl=en"><img src="google-scholar.png" height="10%" width="10%"/></a>
     </td>
   </tr>
@@ -17,10 +17,9 @@
 - B.S., Geographic Information Science, East China Normal University (09/2016-07/2020)
 
 ### Research Interests
-- Knowledge Graphs
-- GeoAI
-- Geospatial Semantics
-- GIScience
+- Knowledge Representation and Reasoning
+- Neuro-Symbolic Artificial Intelligence
+- Philosophy of Space and Time
 
 ### Publications
 - <b>Liu, Z.</b>, Gu, Z., Thelen, T., Estrecha, S. G., Zhu, R., Fisher, C. K., ... & Hitzler, P. (2022, November). <a href="https://doi.org/10.1145/3557915.3561009">Knowledge explorer: exploring the 12-billion-statement KnowWhereGraph using faceted search (demo paper)</a>. In Proceedings of the 30th International Conference on Advances in Geographic Information Systems (pp. 1-4). <a href="https://github.com/KnowWhereGraph/kwg-faceted-search">[repo]</a> <a href="https://stko-kwg.geog.ucsb.edu/">[demo]</a> <span style="color:red">*Best Demo Runner-Up</span>
@@ -41,7 +40,3 @@
 - Jack and Laura Dangermond Travel Scholarship for <a href="https://2022.eswc-conferences.org/">ESWC 2022</a>, University of California, Santa Barbara (Spring 2022)
 - Jack and Laura Dangermond Scholarship, University of California, Santa Barbara (Spring 2021)
 - China National Scholarship, East China Normal University (2017)
-
-### Data Visualizations
-- <a href="https://vislab.mat.ucsb.edu/2022/p3/ZilongLiu/Project3_Zilong_Liu.html">Hazard Entity Rainfall in KnowWhereGraph-V3</a> (01/2022 - 03/2022)
-- <a href="https://vislab.mat.ucsb.edu/2022/p2/ZilongLiu/Project2_Zilong_Liu.html">Place Names in the Semantic Space</a> (01/2022 - 03/2022)
