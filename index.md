@@ -4,8 +4,8 @@
       <p><b>Ph.D. Student</b></p>
       <p><b>Spatio-Temporal Knowledge Observatory (STKO)</b></p>
       <p><b>Email: <a href="mailto:zilong.liu@univie.ac.at">zilong.liu@univie.ac.at</a></b></p>
-      <p>My motivation stems from how humans and machines understand (e.g., perceive) and influence (e.g., construct) the world. Currently, I am a University Assistant (predoc) working at <a href="https://visess.univie.ac.at">Vienna International School of Earth and Space Sciences</a> on <a href="https://visess.univie.ac.at/how-to-apply/visess-2022-spring-call-phd-projects/knowledge-graph-based-geoenrichment-for-environmental-intelligence/">Knowledge Graph-based GeoEnrichment for Environmental Intelligence</a>.</p>
-      <p>Now I am a Ph.D. student associated with the working group of <a href="https://geographie.univie.ac.at/arbeitsgruppen/kartographie-und-geoinformation/">Spatial Data Science and Geocommunication</a> at the <a href="https://geographie.univie.ac.at/en/">Department of Geography and Regional Research</a> in <a href="https://www.univie.ac.at/en/">University of Vienna</a>. Advised by <a href="https://www.geog.ucsb.edu/people/faculty/krzysztof-janowicz">Prof. Krzysztof Janowicz</a>, I am studying <b>geographic diversity in knowledge representation and representation learning</b>b>.</p>
+      <p>My motivation stems from how humans and machines understand (e.g., perceive) and impact (e.g., construct) the world. Currently, I am a University Assistant (predoc) working at <a href="https://visess.univie.ac.at">Vienna International School of Earth and Space Sciences</a> on <a href="https://visess.univie.ac.at/how-to-apply/visess-2022-spring-call-phd-projects/knowledge-graph-based-geoenrichment-for-environmental-intelligence/">Knowledge Graph-based GeoEnrichment for Environmental Intelligence</a>.</p>
+      <p>Now I am a Ph.D. student associated with the working group of <a href="https://geographie.univie.ac.at/arbeitsgruppen/kartographie-und-geoinformation/">Spatial Data Science and Geocommunication</a> at the <a href="https://geographie.univie.ac.at/en/">Department of Geography and Regional Research</a> in <a href="https://www.univie.ac.at/en/">University of Vienna</a>. Advised by <a href="https://www.geog.ucsb.edu/people/faculty/krzysztof-janowicz">Prof. Krzysztof Janowicz</a>, I am studying <b>geographic diversity in knowledge representation and representation learning</b>.</p>
       <a href="https://scholar.google.com/citations?user=UqappoUAAAAJ&hl=en"><img src="google-scholar.png" height="10%" width="10%"/></a>
     </td>
   </tr>
@@ -19,7 +19,7 @@
 ### Research Interests
 - Knowledge Representation and Reasoning
 - Philosophy of Space and Time
-- Machine Ethics
+- Machine Morality
 
 ### Publications
 - <b>Liu, Z.</b>, Janowicz, K., Currier, K., Shi, M., Rao, J., Gao, S., Cai, L., & Graser, A. (2023, August 26). <a href="https://zenodo.org/records/8286277/files/Z%20Liu,%20K%20Janowicz,%20K%20Currier,%20M%20Shi,%20J%20Rao,%20S%20Gao,%20L%20Cai,%20and%20A%20Graser%20-%20Here%20Is%20Not%20There,%20Measuring%20Entailment-Based%20Trajectory%20Similarity%20for%20Location-Privacy%20Protection%20and%20Beyond.pdf">Here Is Not There: Measuring Entailment-Based Trajectory Similarity for Location-Privacy Protection and Beyond</a>. Fourth International Symposium on Platial Information Science (PLATIAL'23), Dortmund, Germany.
@@ -36,7 +36,7 @@
 - <a href='https://knowwheregraph.github.io/kg-geoenrichment-tutorial-iswc2023/'>Knowing Where via Knowledge Graph-based GeoEnrichment</a>, the 22<sup>nd</sup> International Semantic Web Conference (ISWC 2023)
 
 ### Teaching
-- Principles and Methods of Application Development - Geographic Information Retrieval, University of Vienna (2023W)
+- <a href='https://ufind.univie.ac.at/en/course.html?lv=290061&semester=2023W'>Principles and Methods of Application Development - Geographic Information Retrieval</a>, University of Vienna (2023W)
 - GEOG 176B, Technical GIS, UC Santa Barbara (Winter 2021, Teaching Assistant)
 - GEOG 176A, Geographic Information Systems and Science, UC Santa Barbara (Fall 2020, Teaching Assistant)
 
