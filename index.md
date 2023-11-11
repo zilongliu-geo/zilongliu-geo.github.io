@@ -2,10 +2,10 @@
   <tr>
     <td width="100%">
       <p><b>Ph.D. Student</b></p>
-      <p><b>Space and Time Knowledge Organization (STKO) Lab</b></p>
+      <p><b>Spatio-Temporal Knowledge Observatory (STKO)</b></p>
       <p><b>Email: <a href="mailto:zilong.liu@univie.ac.at">zilong.liu@univie.ac.at</a></b></p>
-      <p>My motivation stems from how humans and machines understand (e.g., categorize, perceive) the world. Currently, I am a University Assistant (predoc) working at <a href="https://visess.univie.ac.at">Vienna International School of Earth and Space Sciences</a> on <a href="https://visess.univie.ac.at/how-to-apply/visess-2022-spring-call-phd-projects/knowledge-graph-based-geoenrichment-for-environmental-intelligence/">Knowledge Graph-based GeoEnrichment for Environmental Intelligence</a>.</p>
-      <p>Now I am a Ph.D. student associated with the working group of <a href="https://geographie.univie.ac.at/arbeitsgruppen/kartographie-und-geoinformation/">Spatial Data Science and Geocommunication</a> at the <a href="https://geographie.univie.ac.at/en/">Department of Geography and Regional Research</a> in <a href="https://www.univie.ac.at/en/">University of Vienna</a>. Advised by <a href="https://www.geog.ucsb.edu/people/faculty/krzysztof-janowicz">Prof. Krzysztof Janowicz</a>, I am studying geographic diversity in knowledge representation and representation learning.</p>
+      <p>My motivation stems from how humans and machines understand (e.g., perceive) and influence (e.g., construct) the world. Currently, I am a University Assistant (predoc) working at <a href="https://visess.univie.ac.at">Vienna International School of Earth and Space Sciences</a> on <a href="https://visess.univie.ac.at/how-to-apply/visess-2022-spring-call-phd-projects/knowledge-graph-based-geoenrichment-for-environmental-intelligence/">Knowledge Graph-based GeoEnrichment for Environmental Intelligence</a>.</p>
+      <p>Now I am a Ph.D. student associated with the working group of <a href="https://geographie.univie.ac.at/arbeitsgruppen/kartographie-und-geoinformation/">Spatial Data Science and Geocommunication</a> at the <a href="https://geographie.univie.ac.at/en/">Department of Geography and Regional Research</a> in <a href="https://www.univie.ac.at/en/">University of Vienna</a>. Advised by <a href="https://www.geog.ucsb.edu/people/faculty/krzysztof-janowicz">Prof. Krzysztof Janowicz</a>, I am studying <b>geographic diversity in knowledge representation and representation learning</b>b>.</p>
       <a href="https://scholar.google.com/citations?user=UqappoUAAAAJ&hl=en"><img src="google-scholar.png" height="10%" width="10%"/></a>
     </td>
   </tr>
@@ -18,10 +18,11 @@
 
 ### Research Interests
 - Knowledge Representation and Reasoning
-- Semantics of Space and Time
-- Ethics of Artificial Intelligence
+- Philosophy of Space and Time
+- Machine Ethics
 
 ### Publications
+- <b>Liu, Z.</b>, Janowicz, K., Currier, K., Shi, M., Rao, J., Gao, S., Cai, L., & Graser, A. (2023, August 26). <a href="https://zenodo.org/records/8286277/files/Z%20Liu,%20K%20Janowicz,%20K%20Currier,%20M%20Shi,%20J%20Rao,%20S%20Gao,%20L%20Cai,%20and%20A%20Graser%20-%20Here%20Is%20Not%20There,%20Measuring%20Entailment-Based%20Trajectory%20Similarity%20for%20Location-Privacy%20Protection%20and%20Beyond.pdf">Here Is Not There: Measuring Entailment-Based Trajectory Similarity for Location-Privacy Protection and Beyond</a>. Fourth International Symposium on Platial Information Science (PLATIAL'23), Dortmund, Germany.
 - Shi, M., Currier, K., <b>Liu, Z.</b>, Janowicz, K., Wiedemann, N., Verstegen, J., ... & Mai, G. (2023). <a href="https://agile-giss.copernicus.org/articles/4/42/2023/agile-giss-4-42-2023.pdf">Thinking Geographically about AI Sustainability</a>. AGILE: GIScience Series, 4, 42.
 - <b>Liu, Z.</b>, Gu, Z., Thelen, T., Estrecha, S. G., Zhu, R., Fisher, C. K., ... & Hitzler, P. (2022, November). <a href="https://doi.org/10.1145/3557915.3561009">Knowledge explorer: exploring the 12-billion-statement KnowWhereGraph using faceted search (demo paper)</a>. In Proceedings of the 30th International Conference on Advances in Geographic Information Systems (pp. 1-4). <a href="https://github.com/KnowWhereGraph/kwg-faceted-search">[repo]</a> <a href="https://stko-kwg.geog.ucsb.edu/">[demo]</a> <span style="color:red">*Best Demo Runner-Up</span>
 - Goodchild, M.F., Appelbaum R., Crampton, J., Herbert, W.A., Janowicz, K., Kwan, M.-P., Michael, K., Alvarez León, L. F., Bennett, M., Cole, D.G., Currier, K., Fast, V., Hirsch, J., Kattenbeck, M., Kedron, P., Kerski, J., <b>Liu, Z.</b>, Nelson, T., Shulruff, T., Sieber, R.E., Wertman, J., Wilmott, C., Zhao, B., Zhu, R., Nilupaer, J., Dony, C.C., Langham, G. (2022). <a href="https://doi.org/10.14433/2017.0113">A White Paper on Locational Information and the Public Interest</a>. American Association of Geographers.
@@ -31,9 +32,13 @@
 - Janowicz, K., Shimizu, C., Hitzler, P., Mai, G., Stephen, S., Zhu, R., ... & Shi, M. (2022). <a href="https://content.iospress.com/download/semantic-web/sw210453?id=semantic-web%2Fsw210453">Diverse data! Diverse schemata?</a>. Semantic Web, 13(1), 1-3.
 - Zhu, R., Cai, L., Mai, G., Shimizu, C., Fisher, C. K., Janowicz, K., ... & <b>Liu, Z</b>. (2021, December). <a href="https://dl.acm.org/doi/pdf/10.1145/3460210.3493581">Providing Humanitarian Relief Support through Knowledge Graphs</a>. In Proceedings of the 11th on Knowledge Capture Conference (pp. 285-288).
 
-### Teaching Assistantship
-- GEOG 176B, Technical GIS, University of California, Santa Barbara (Winter 2021)
-- GEOG 176A, Geographic Information Systems and Science, University of California, Santa Barbara (Fall 2020)
+### Tutorials
+- <a href='https://knowwheregraph.github.io/kg-geoenrichment-tutorial-iswc2023/'>Knowing Where via Knowledge Graph-based GeoEnrichment</a>, the 22<sup>nd</sup> International Semantic Web Conference (ISWC 2023)
+
+### Teaching
+- Principles and Methods of Application Development - Geographic Information Retrieval, University of Vienna (2023W)
+- GEOG 176B, Technical GIS, UC Santa Barbara (Winter 2021, Teaching Assistant)
+- GEOG 176A, Geographic Information Systems and Science, UC Santa Barbara (Fall 2020, Teaching Assistant)
 
 ### Awards
 - US2TS Travel Grant, US2TS (2022)
