@@ -18,7 +18,7 @@
 
 ### Research Interests
 - Knowledge Representation and Reasoning
-- Philosophy of Space and Time
+- Geospatial Semantics
 - Machine Morality
 
 ### Publications
@@ -37,6 +37,7 @@
 
 ### Teaching
 - <a href='https://ufind.univie.ac.at/en/course.html?lv=290061&semester=2023W'>Principles and Methods of Application Development - Geographic Information Retrieval</a>, University of Vienna (2023W)
+- <a href='https://ufind.univie.ac.at/en/course.html?lv=290023&semester=2023S'>Field Trip: Spatial Data Science and the City: A (North) American Perspective</a>, University of Vienna (2023S)
 - GEOG 176B, Technical GIS, UC Santa Barbara (Winter 2021, Teaching Assistant)
 - GEOG 176A, Geographic Information Systems and Science, UC Santa Barbara (Fall 2020, Teaching Assistant)
 
