@@ -37,6 +37,7 @@
 - <a href='https://knowwheregraph.github.io/kg-geoenrichment-tutorial-iswc2023/'>Knowing Where via Knowledge Graph-based GeoEnrichment</a>, the 22<sup>nd</sup> International Semantic Web Conference (ISWC 2023)
 
 ### Teaching
+- <a href='https://ufind.univie.ac.at/en/course.html?lv=290006&semester=2024S'>Open GIS and Open Data in Geoinformation</a>, University of Vienna (2024S)
 - <a href='https://ufind.univie.ac.at/en/course.html?lv=290061&semester=2023W'>Principles and Methods of Application Development - Geographic Information Retrieval</a>, University of Vienna (2023W)
 - <a href='https://ufind.univie.ac.at/en/course.html?lv=290023&semester=2023S'>Field Trip: Spatial Data Science and the City: A (North) American Perspective</a>, University of Vienna (2023S)
 - GEOG 176B, Technical GIS, UC Santa Barbara (Winter 2021, Teaching Assistant)
