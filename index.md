@@ -11,8 +11,8 @@
 </table>
 
 ### Education
-- Ph.D., Geography, University of Vienna (09/2022 - Present) + University of California, Santa Barbara (03/2022 - 09/2022)
-- M.A., Geography, University of California, Santa Barbara (09/2020 - 03/2022)
+- Ph.D., Geography, University of Vienna (09/2022 - Present) + UC Santa Barbara (03/2022 - 09/2022)
+- M.A., Geography, UC Santa Barbara (09/2020 - 03/2022)
 - B.S., Geographic Information Science, East China Normal University (09/2016-07/2020)
 
 ### Research Interests
@@ -51,6 +51,6 @@
 ### Awards
 - US2TS Travel Grant, US2TS (2022)
 - <a href="https://agile-online.org/index.php/conference-2022/grants-2022">AGILE 2022 Grant</a>, ESRI and AGILE (2022)
-- Jack and Laura Dangermond Travel Scholarship for <a href="https://2022.eswc-conferences.org/">ESWC 2022</a>, University of California, Santa Barbara (Spring 2022)
-- Jack and Laura Dangermond Scholarship, University of California, Santa Barbara (Spring 2021)
+- Jack and Laura Dangermond Travel Scholarship for <a href="https://2022.eswc-conferences.org/">ESWC 2022</a>, UC Santa Barbara (Spring 2022)
+- Jack and Laura Dangermond Scholarship, UC Santa Barbara (Spring 2021)
 - China National Scholarship, East China Normal University (2017)
