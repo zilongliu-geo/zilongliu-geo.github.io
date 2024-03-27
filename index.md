@@ -30,7 +30,7 @@
 - Goodchild, M.F., Appelbaum R., Crampton, J., Herbert, W.A., Janowicz, K., Kwan, M.-P., Michael, K., Alvarez León, L. F., Bennett, M., Cole, D.G., Currier, K., Fast, V., Hirsch, J., Kattenbeck, M., Kedron, P., Kerski, J., <b>Liu, Z.</b>, Nelson, T., Shulruff, T., Sieber, R.E., Wertman, J., Wilmott, C., Zhao, B., Zhu, R., Nilupaer, J., Dony, C.C., Langham, G. (2022). <a href="https://doi.org/10.14433/2017.0113">A White Paper on Locational Information and the Public Interest</a>. American Association of Geographers.
 - <b>Liu, Z.</b>, Janowicz, K., Cai, L., Zhu, R., Mai, G., & Shi, M. (2022). <a href="https://agile-giss.copernicus.org/articles/3/9/2022/agile-giss-3-9-2022.pdf">Geoparsing: Solved or Biased? An Evaluation of Geographic Biases in Geoparsing</a>. AGILE: GIScience Series, 3, 1-13. <a href="https://github.com/zilongliu-geo/Geoparsing-Solved-Or-Biased">[repo]</a>
 - Janowicz, K., Hitzler, P., Li, W., Rehberger, D., Schildhauer, M., Zhu, R., ... & Currier, K. (2022). <a href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/aaai.12043">Know, Know Where, KnowWhereGraph: A densely connected, cross‐domain knowledge graph and geo‐enrichment service stack for applications in environmental intelligence</a>. AI Magazine, 43(1), 30-39.
-- <b>Liu, Z.</b>, Shi, M., Janowicz, K., Regalia, B., Delbecque, S., Mai, G., ... & Hitzler, P. <a href="https://2022.eswc-conferences.org/wp-content/uploads/2022/05/paper_80_Liu_et_al.pdf">LD Connect: A Linked Data Portal for IOS Press Scientometrics</a>. In European Semantic Web Conference (pp. 323-337). Springer, Cham. <a href="https://github.com/stko-lab/LD-Connect">[repo]</a> <a href="http://stko-roy.geog.ucsb.edu:7200/iospress_scientometrics">[demo]</a> <span style="color:red">*Spotlight Paper</span>
+- <b>Liu, Z.</b>, Shi, M., Janowicz, K., Regalia, B., Delbecque, S., Mai, G., ... & Hitzler, P. <a href="https://2022.eswc-conferences.org/wp-content/uploads/2022/05/paper_80_Liu_et_al.pdf">LD Connect: A Linked Data Portal for IOS Press Scientometrics</a>. In European Semantic Web Conference (pp. 323-337). Springer, Cham. <a href="https://github.com/stko-lab/LD-Connect">[repo]</a> <span style="color:red">*Spotlight Paper</span>
 - Janowicz, K., Shimizu, C., Hitzler, P., Mai, G., Stephen, S., Zhu, R., ... & Shi, M. (2022). <a href="https://content.iospress.com/download/semantic-web/sw210453?id=semantic-web%2Fsw210453">Diverse data! Diverse schemata?</a>. Semantic Web, 13(1), 1-3.
 - Zhu, R., Cai, L., Mai, G., Shimizu, C., Fisher, C. K., Janowicz, K., ... & <b>Liu, Z</b>. (2021, December). <a href="https://dl.acm.org/doi/pdf/10.1145/3460210.3493581">Providing Humanitarian Relief Support through Knowledge Graphs</a>. In Proceedings of the 11th on Knowledge Capture Conference (pp. 285-288).
 
@@ -50,7 +50,7 @@
 
 ### Awards
 - US2TS Travel Grant, US2TS (2022)
-- <a href="https://agile-online.org/index.php/conference-2022/grants-2022">AGILE 2022 Grant</a>, ESRI and AGILE (2022)
+- AGILE 2022 Grant, ESRI and AGILE (2022)
 - Jack and Laura Dangermond Travel Scholarship for <a href="https://2022.eswc-conferences.org/">ESWC 2022</a>, UC Santa Barbara (Spring 2022)
 - Jack and Laura Dangermond Scholarship, UC Santa Barbara (Spring 2021)
 - China National Scholarship, East China Normal University (2017)
