@@ -1,11 +1,10 @@
 <table border="0">
   <tr>
     <td width="100%">
-      <p><b>Ph.D. Student</b></p>
-      <p><b>Spatio-Temporal Knowledge Observatory (STKO)</b></p>
+      <p><b>Ph.D. Researcher</b></p>
       <p><b>Email: <a href="mailto:zilong.liu@univie.ac.at">zilong.liu@univie.ac.at</a></b></p>
-      <p>My motivation stems from how humans and machines understand (e.g., perceive) and impact (e.g., construct) the world. Currently, I am a University Assistant (predoc) working at <a href="https://visess.univie.ac.at">Vienna International School of Earth and Space Sciences</a> on <a href="https://visess.univie.ac.at/how-to-apply/visess-2022-spring-call-phd-projects/knowledge-graph-based-geoenrichment-for-environmental-intelligence/">Knowledge Graph-based GeoEnrichment for Environmental Intelligence</a>.</p>
-      <p>Now I am a Ph.D. student associated with the working group of <a href="https://geographie.univie.ac.at/arbeitsgruppen/kartographie-und-geoinformation/">Spatial Data Science and Geocommunication</a> at the <a href="https://geographie.univie.ac.at/en/">Department of Geography and Regional Research</a> in <a href="https://www.univie.ac.at/en/">University of Vienna</a>. Advised by <a href="https://www.geog.ucsb.edu/people/faculty/krzysztof-janowicz">Prof. Krzysztof Janowicz</a>, I am studying <b>geographic diversity in knowledge representation and representation learning</b>.</p>
+      <p>My motivation stems from how humans and machines understand (e.g., perceive) and impact (e.g., construct) the world. Currently, I am a University Assistant (predoc) working at <a href="https://visess.univie.ac.at">Vienna International School of Earth and Space Sciences</a> on <a href="https://visess.univie.ac.at/how-to-apply/visess-2022-spring-call-phd-projects/knowledge-graph-based-geoenrichment-for-environmental-intelligence/">Knowledge Graph-based GeoEnrichment for Environmental Intelligence</a>. I am also a member of the <a href="https://stko-lab.github.io/">Spatial-Temporal Knowledge Observatory</a>. Before, I was a research associate of <a href="https://spatial.ucsb.edu/people/alumni">Center for Spatial Studies</a> at UC Santa Barbara from 2020 to 2022.</p>
+      <p>Now I am a Ph.D. student affiliated with the working group of <a href="https://geographie.univie.ac.at/arbeitsgruppen/kartographie-und-geoinformation/">Spatial Data Science and Geocommunication</a> at the <a href="https://geographie.univie.ac.at/en/">Department of Geography and Regional Research</a> in <a href="https://www.univie.ac.at/en/">University of Vienna</a>. Advised by <a href="https://www.geog.ucsb.edu/people/faculty/krzysztof-janowicz">Prof. Krzysztof Janowicz</a>, I am studying <b>geographic diversity in knowledge representation and representation learning</b>.</p>
       <a href="https://scholar.google.com/citations?user=UqappoUAAAAJ&hl=en"><img src="google-scholar.png" height="10%" width="10%"/></a>
     </td>
   </tr>
@@ -17,10 +16,9 @@
 - B.S., Geographic Information Science, East China Normal University (09/2016-07/2020)
 
 ### Research Interests
-- Knowledge Graphs
-- Geospatial Semantics
-- Spatial Data Science
+- GeoAI
 - Machine Ethics
+- Spatial Data Science
 
 ### Publications
 - <b>Liu, Z.</b>, Janowicz, K., Currier, K., & Shi, M. (2024). A Geo-diverse Knowledge Base? Geo-guessing Geographic Features in Natural Language with GPT-4. AGILE 2024. (Forthcoming)
@@ -36,8 +34,12 @@
 - Janowicz, K., Shimizu, C., Hitzler, P., Mai, G., Stephen, S., Zhu, R., ... & Shi, M. (2022). <a href="https://content.iospress.com/download/semantic-web/sw210453?id=semantic-web%2Fsw210453">Diverse data! Diverse schemata?</a>. Semantic Web, 13(1), 1-3.
 - Zhu, R., Cai, L., Mai, G., Shimizu, C., Fisher, C. K., Janowicz, K., ... & <b>Liu, Z</b>. (2021, December). <a href="https://dl.acm.org/doi/pdf/10.1145/3460210.3493581">Providing Humanitarian Relief Support through Knowledge Graphs</a>. In Proceedings of the 11th on Knowledge Capture Conference (pp. 285-288).
 
-### Tutorials
-- <a href='https://knowwheregraph.github.io/kg-geoenrichment-tutorial-iswc2023/'>Knowing Where via Knowledge Graph-based GeoEnrichment</a>, the 22<sup>nd</sup> International Semantic Web Conference (ISWC 2023)
+### Committee Service
+- Program committee member, <a href='https://agile-gi.eu/conference-2024/committees-2024'>AGILE 2024</a>
+- Leading tutorial organizer, <a href='https://knowwheregraph.github.io/kg-geoenrichment-tutorial-iswc2023/'>Knowing Where via Knowledge Graph-based GeoEnrichment</a>, the 22<sup>nd</sup> International Semantic Web Conference
+- Student volunteer, <a href='http://sdss2023.spatial-data-science.net/'>the 4<sup>th</sup> Spatial Data Science Symposium</a>
+- Student volunteer, <a href='https://geographie.univie.ac.at/arbeitsgruppen/kartographie-und-geoinformation/publikationen/detailansicht/news/geography-according-to-chatgpt/'>Geography according to ChatGPT</a>
+- Student volunteer, <a href='http://sdss2022.spatial-data-science.net/'>the 3<sup>rd</sup> Spatial Data Science Symposium</a>
 
 ### Teaching
 - <a href='https://ufind.univie.ac.at/en/course.html?lv=290006&semester=2024S'>Open GIS and Open Data in Geoinformation</a>, University of Vienna (2024S)
