@@ -21,7 +21,7 @@
 - Spatial Data Science
 
 ### Publications
-- <b>Liu, Z.</b>, Janowicz, K., Currier, K., & Shi, M. (2024). A Geo-diverse Knowledge Base? Geo-guessing Geographic Features in Natural Language with GPT-4. AGILE 2024. (Forthcoming)
+- <b>Liu, Z.</b>, Janowicz, K., Currier, K., & Shi, M. (2024). Measuring Geographic Diversity of Foundation Models with a Natural Language--based Geo-guessing Experiment on GPT-4. AGILE 2024. (Forthcoming)
 - <b>Liu, Z.</b>, Janowicz, K., & Currier, K. (2024). Making Geographic Space Explicit in Probing Multimodal Large Language Models for Cultural Subjects. Global AI Cultures @ ICLR 2024. (Forthcoming)
 - Janowicz, K., Currier, K., Shimizu, C., Zhu, R., Shi, M., Fisher, C. K., ... & Stephen, S. (2023). <a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003308423-21/fast-forward-data-insight-geographic-knowledge-graphs-applications-krzysztof-janowicz-kitty-currier-cogan-shimizu-rui-zhu-meilin-shi-colby-fisher-dean-rehberger-pascal-hitzler-zilong-liu-shirly-stephen">Fast Forward from Data to Insight:(Geographic) Knowledge Graphs and Their Applications</a>. In Handbook of Geospatial Artificial Intelligence (pp. 411-426). CRC Press.
 - <b>Liu, Z.</b>, Janowicz, K., Currier, K., Shi, M., Rao, J., Gao, S., Cai, L., & Graser, A. (2023, August 26). <a href="https://zenodo.org/records/8286277/files/Z%20Liu,%20K%20Janowicz,%20K%20Currier,%20M%20Shi,%20J%20Rao,%20S%20Gao,%20L%20Cai,%20and%20A%20Graser%20-%20Here%20Is%20Not%20There,%20Measuring%20Entailment-Based%20Trajectory%20Similarity%20for%20Location-Privacy%20Protection%20and%20Beyond.pdf">Here Is Not There: Measuring Entailment-Based Trajectory Similarity for Location-Privacy Protection and Beyond</a>. Fourth International Symposium on Platial Information Science (PLATIAL'23), Dortmund, Germany.
@@ -49,6 +49,7 @@
 - GEOG 176A, Geographic Information Systems and Science, UC Santa Barbara (Fall 2020, Teaching Assistant)
 
 ### Awards
+- AGILE 2024 Grant, ESRI and AGILE (2024)
 - US2TS Travel Grant, US2TS (2022)
 - AGILE 2022 Grant, ESRI and AGILE (2022)
 - Jack and Laura Dangermond Travel Scholarship for <a href="https://2022.eswc-conferences.org/">ESWC 2022</a>, UC Santa Barbara (Spring 2022)
