@@ -49,9 +49,10 @@
 - GEOG 176A, Geographic Information Systems and Science, UC Santa Barbara (Fall 2020, Teaching Assistant)
 
 ### Awards
-- AGILE 2024 Grant, ESRI and AGILE (2024)
+- Financial Assistance, ICLR Global AI Cultures Workshop (2024)
+- AGILE Grant, ESRI and AGILE (2024)
 - US2TS Travel Grant, US2TS (2022)
-- AGILE 2022 Grant, ESRI and AGILE (2022)
-- Jack and Laura Dangermond Travel Scholarship for <a href="https://2022.eswc-conferences.org/">ESWC 2022</a>, UC Santa Barbara (Spring 2022)
+- AGILE Grant, ESRI and AGILE (2022)
+- Jack and Laura Dangermond Travel Scholarship, UC Santa Barbara (Spring 2022)
 - Jack and Laura Dangermond Scholarship, UC Santa Barbara (Spring 2021)
 - China National Scholarship, East China Normal University (2017)
