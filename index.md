@@ -3,7 +3,7 @@
     <td width="100%">
       <p><b>Ph.D. Researcher</b></p>
       <p><b>Email: <a href="mailto:zilong.liu@univie.ac.at">zilong.liu@univie.ac.at</a></b></p>
-      <p>My motivation stems from how humans and machines understand (e.g., perceive) and impact (e.g., construct) the world. Currently, I am a University Assistant (predoc) working at <a href="https://visess.univie.ac.at">Vienna International School of Earth and Space Sciences</a> on <a href="https://visess.univie.ac.at/how-to-apply/visess-2022-spring-call-phd-projects/knowledge-graph-based-geoenrichment-for-environmental-intelligence/">Knowledge Graph-based GeoEnrichment for Environmental Intelligence</a>. I am also a member of the <a href="https://stko-lab.github.io/">Spatial-Temporal Knowledge Observatory</a>. Before, I was a research associate of <a href="https://spatial.ucsb.edu/people/alumni">Center for Spatial Studies</a> at UC Santa Barbara from 2020 to 2022.</p>
+      <p>My motivation stems from how humans and machines understand (e.g., perceive) and impact (e.g., construct) the world. Currently, I am a University Assistant (praedoc) working at <a href="https://visess.univie.ac.at">Vienna International School of Earth and Space Sciences</a> on <a href="https://visess.univie.ac.at/how-to-apply/visess-2022-spring-call-phd-projects/knowledge-graph-based-geoenrichment-for-environmental-intelligence/">Knowledge Graph-based GeoEnrichment for Environmental Intelligence</a>. I am also a member of the <a href="https://stko-lab.github.io/">Spatial-Temporal Knowledge Observatory</a>. Before, I was a research associate of <a href="https://spatial.ucsb.edu/people/alumni">Center for Spatial Studies</a> at UC Santa Barbara from 2020 to 2022.</p>
       <p>Now I am a Ph.D. student affiliated with the working group of <a href="https://geographie.univie.ac.at/arbeitsgruppen/kartographie-und-geoinformation/">Spatial Data Science and Geocommunication</a> at the <a href="https://geographie.univie.ac.at/en/">Department of Geography and Regional Research</a> in <a href="https://www.univie.ac.at/en/">University of Vienna</a>. Advised by <a href="https://www.univie.ac.at/forschung/forschung-im-ueberblick/neue-professuren/neue-professuren/artikel/univ-prof-dr-krzysztof-janowicz/">Prof. Krzysztof Janowicz</a>, I am studying <b>geographic diversity in knowledge representation and representation learning</b>.</p>
       <a href="https://scholar.google.com/citations?user=UqappoUAAAAJ&hl=en"><img src="google-scholar.png" height="10%" width="10%"/></a>
     </td>
@@ -42,9 +42,9 @@
 - Student volunteer, <a href='http://sdss2022.spatial-data-science.net/'>the 3<sup>rd</sup> Spatial Data Science Symposium</a>
 
 ### Teaching
-- <a href='https://ufind.univie.ac.at/en/course.html?lv=290006&semester=2024S'>Open GIS and Open Data in Geoinformation</a>, University of Vienna (2024S)
-- <a href='https://ufind.univie.ac.at/en/course.html?lv=290061&semester=2023W'>Principles and Methods of Application Development - Geographic Information Retrieval</a>, University of Vienna (2023W)
-- <a href='https://ufind.univie.ac.at/en/course.html?lv=290023&semester=2023S'>Field Trip: Spatial Data Science and the City: A (North) American Perspective</a>, University of Vienna (2023S)
+- <a href='https://ufind.univie.ac.at/en/course.html?lv=290006&semester=2024S'>Open GIS and Open Data in Geoinformation</a>, University of Vienna (2024S, Co-instructor)
+- <a href='https://ufind.univie.ac.at/en/course.html?lv=290061&semester=2023W'>Principles and Methods of Application Development - Geographic Information Retrieval</a>, University of Vienna (2023W, Co-instructor)
+- <a href='https://ufind.univie.ac.at/en/course.html?lv=290023&semester=2023S'>Field Trip: Spatial Data Science and the City: A (North) American Perspective</a>, University of Vienna (2023S, Co-instructor)
 - GEOG 176B, Technical GIS, UC Santa Barbara (Winter 2021, Teaching Assistant)
 - GEOG 176A, Geographic Information Systems and Science, UC Santa Barbara (Fall 2020, Teaching Assistant)
 
