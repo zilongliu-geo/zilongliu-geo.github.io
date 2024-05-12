@@ -16,9 +16,9 @@
 - B.S., Geographic Information Science, East China Normal University (09/2016-07/2020)
 
 ### Research Interests
-- GeoAI
-- Machine Ethics
+- AI Ethics
 - Spatial Data Science
+- Geospatial Semantics
 
 ### Publications
 - <b>Liu, Z.</b>, Currier, K., & Janowicz, K. (2024). <a href="https://globalaicultures.github.io/pdf/15_making_geographic_space_explic.pdf">Making Geographic Space Explicit in Probing Multimodal Large Language Models for Cultural Subjects</a>. Global AI Cultures @ ICLR 2024, Vienna, Austria.
