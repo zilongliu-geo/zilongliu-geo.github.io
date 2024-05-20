@@ -18,10 +18,9 @@
 ### Research Interests
 - AI Ethics
 - Spatial Data Science
-- Geospatial Semantics
+- Geo-semantics
 
 ### Publications
-- <b>Liu, Z.</b>, Currier, K., & Janowicz, K. (2024). <a href="https://globalaicultures.github.io/pdf/15_making_geographic_space_explic.pdf">Making Geographic Space Explicit in Probing Multimodal Large Language Models for Cultural Subjects</a>. [Provocation at the Global AI Cultures workshop in ICLR 2024]
 - <b>Liu, Z.</b>, Janowicz, K., Currier, K., & Shi, M. (2024). <a href="https://arxiv.org/html/2404.07612v1">Measuring Geographic Diversity of Foundation Models with a Natural Language--based Geo-guessing Experiment on GPT-4</a>. arXiv preprint arXiv:2404.07612.
 - Janowicz, K., Currier, K., Shimizu, C., Zhu, R., Shi, M., Fisher, C. K., ... & Stephen, S. (2023). <a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003308423-21/fast-forward-data-insight-geographic-knowledge-graphs-applications-krzysztof-janowicz-kitty-currier-cogan-shimizu-rui-zhu-meilin-shi-colby-fisher-dean-rehberger-pascal-hitzler-zilong-liu-shirly-stephen">Fast Forward from Data to Insight:(Geographic) Knowledge Graphs and Their Applications</a>. In Handbook of Geospatial Artificial Intelligence (pp. 411-426). CRC Press.
 - <b>Liu, Z.</b>, Janowicz, K., Currier, K., Shi, M., Rao, J., Gao, S., Cai, L., & Graser, A. (2023, August 26). <a href="https://zenodo.org/records/8286277/files/Z%20Liu,%20K%20Janowicz,%20K%20Currier,%20M%20Shi,%20J%20Rao,%20S%20Gao,%20L%20Cai,%20and%20A%20Graser%20-%20Here%20Is%20Not%20There,%20Measuring%20Entailment-Based%20Trajectory%20Similarity%20for%20Location-Privacy%20Protection%20and%20Beyond.pdf">Here Is Not There: Measuring Entailment-Based Trajectory Similarity for Location-Privacy Protection and Beyond</a>. Fourth International Symposium on Platial Information Science (PLATIAL'23), Dortmund, Germany.
@@ -33,6 +32,13 @@
 - <b>Liu, Z.</b>, Shi, M., Janowicz, K., Regalia, B., Delbecque, S., Mai, G., ... & Hitzler, P. <a href="https://2022.eswc-conferences.org/wp-content/uploads/2022/05/paper_80_Liu_et_al.pdf">LD Connect: A Linked Data Portal for IOS Press Scientometrics</a>. In European Semantic Web Conference (pp. 323-337). Springer, Cham. <a href="https://github.com/stko-lab/LD-Connect">[repo]</a> <span style="color:red">*Spotlight Paper</span>
 - Janowicz, K., Shimizu, C., Hitzler, P., Mai, G., Stephen, S., Zhu, R., ... & Shi, M. (2022). <a href="https://content.iospress.com/download/semantic-web/sw210453?id=semantic-web%2Fsw210453">Diverse data! Diverse schemata?</a>. Semantic Web, 13(1), 1-3.
 - Zhu, R., Cai, L., Mai, G., Shimizu, C., Fisher, C. K., Janowicz, K., ... & <b>Liu, Z</b>. (2021, December). <a href="https://dl.acm.org/doi/pdf/10.1145/3460210.3493581">Providing Humanitarian Relief Support through Knowledge Graphs</a>. In Proceedings of the 11th on Knowledge Capture Conference (pp. 285-288).
+
+### Provacations
+- <b>Liu, Z.</b>, Currier, K., & Janowicz, K. (2024). <a href="https://globalaicultures.github.io/pdf/15_making_geographic_space_explic.pdf">Making Geographic Space Explicit in Probing Multimodal Large Language Models for Cultural Subjects</a>. [Presented at the Global AI Cultures workshop in ICLR 2024]
+
+### Experimental Visualizations (Projects from <a href="https://vislab.mat.ucsb.edu/courses.html">UCSB MAT 259</a>)
+- Place Names in the Semantic Space <a href="https://vislab.mat.ucsb.edu/2022/p2/ZilongLiu/Project2_Zilong_Liu.html">[repo]</a>
+- Hazard Entity Rainfall in KnowWhereGraph <a href="https://vislab.mat.ucsb.edu/2022/p3/ZilongLiu/Project3_Zilong_Liu.html">[repo]</a>
 
 ### Committee Service
 - Program committee member, <a href='https://agile-gi.eu/conference-2024/committees-2024'>AGILE 2024</a>
@@ -56,7 +62,3 @@
 - Jack and Laura Dangermond Travel Scholarship, UC Santa Barbara (Spring 2022)
 - Jack and Laura Dangermond Scholarship, UC Santa Barbara (Spring 2021)
 - China National Scholarship, East China Normal University (2017)
-
-### Data Visualizations (Class Projects from UCSB MAT 259)
-- Place Names in the Semantic Space <a href="https://vislab.mat.ucsb.edu/2022/p2/ZilongLiu/Project2_Zilong_Liu.html">[repo]</a>
-- Hazard Entity Rainfall in KnowWhereGraph <a href="https://vislab.mat.ucsb.edu/2022/p3/ZilongLiu/Project3_Zilong_Liu.html">[repo]</a>
