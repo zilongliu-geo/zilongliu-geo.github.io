@@ -46,6 +46,7 @@
 - Student volunteer, <a href='http://sdss2023.spatial-data-science.net/'>the 4<sup>th</sup> Spatial Data Science Symposium</a>
 - Student volunteer, <a href='https://geographie.univie.ac.at/arbeitsgruppen/kartographie-und-geoinformation/publikationen/detailansicht/news/geography-according-to-chatgpt/'>Geography according to ChatGPT</a>
 - Student volunteer, <a href='http://sdss2022.spatial-data-science.net/'>the 3<sup>rd</sup> Spatial Data Science Symposium</a>
+- Note taker and participant, <a href="https://www.aag.org/events/summit-on-locational-information-and-the-public-interest/">the GeoEthics Summit</a>
 
 ### Teaching
 - <a href='https://ufind.univie.ac.at/en/course.html?lv=290006&semester=2024S'>Open GIS and Open Data in Geoinformation</a>, University of Vienna (2024S, Co-instructor)
