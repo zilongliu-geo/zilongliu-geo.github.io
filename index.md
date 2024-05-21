@@ -40,6 +40,10 @@
 - Place Names in the Semantic Space <a href="https://vislab.mat.ucsb.edu/2022/p2/ZilongLiu/Project2_Zilong_Liu.html">[repo]</a>
 - Hazard Entity Rainfall in KnowWhereGraph <a href="https://vislab.mat.ucsb.edu/2022/p3/ZilongLiu/Project3_Zilong_Liu.html">[repo]</a>
 
+### Volunteer Projects
+- UC Santa Barbara Global Engagement Map <a href="https://map.globalengagement.ucsb.edu/">[demo]</a>
+- Chinese Tutotorials for Mapbox Developers <a href="https://github.com/mapbox-developer-group/Chinese-Tutorial">[repo]</a>
+
 ### Committee Service
 - Program committee member, <a href='https://agile-gi.eu/conference-2024/committees-2024'>AGILE 2024</a>
 - Leading tutorial organizer, <a href='https://knowwheregraph.github.io/kg-geoenrichment-tutorial-iswc2023/'>Knowing Where via Knowledge Graph-based GeoEnrichment</a>, the 22<sup>nd</sup> International Semantic Web Conference
