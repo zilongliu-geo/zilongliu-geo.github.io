@@ -45,7 +45,7 @@
 - Chinese Tutotorials for Mapbox Developers <a href="https://github.com/mapbox-developer-group/Chinese-Tutorial">[repo]</a>
 
 ### Undergraduate Projects
-- Analysis of Students' Familiarity with UCSB Campus, spatial@ucsb.local: Spatial Data for Smarter Cities <a href="https://spatial.ucsb.edu/sites/default/files/2022-04/spatial%40local%202019%20Posters.pdf">[poster]</a>
+- Analysis of Students' Familiarity with UCSB Campus, spatial@ucsb.local2019: Spatial Data for Smarter Cities <a href="https://spatial.ucsb.edu/sites/default/files/2022-04/spatial%40local%202019%20Posters.pdf">[poster]</a>
 
 ### Committee Service
 - Program committee member, <a href='https://agile-gi.eu/conference-2024/committees-2024'>AGILE 2024</a>
