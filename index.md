@@ -63,6 +63,7 @@
 - GEOG 176A, Geographic Information Systems and Science, UC Santa Barbara (Fall 2020, Teaching Assistant)
 
 ### Awards
+- Early-stage Researchers Programme, Faculty of Earth Sciences, Geography and Astronomy, University of Vienna (2024)
 - Financial Assistance, ICLR Global AI Cultures Workshop (2024)
 - AGILE Grant, ESRI and AGILE (2024)
 - US2TS Travel Grant, US2TS (2022)
