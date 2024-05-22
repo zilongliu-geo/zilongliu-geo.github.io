@@ -33,7 +33,7 @@
 - Janowicz, K., Shimizu, C., Hitzler, P., Mai, G., Stephen, S., Zhu, R., ... & Shi, M. (2022). <a href="https://content.iospress.com/download/semantic-web/sw210453?id=semantic-web%2Fsw210453">Diverse data! Diverse schemata?</a>. Semantic Web, 13(1), 1-3.
 - Zhu, R., Cai, L., Mai, G., Shimizu, C., Fisher, C. K., Janowicz, K., ... & <b>Liu, Z</b>. (2021, December). <a href="https://dl.acm.org/doi/pdf/10.1145/3460210.3493581">Providing Humanitarian Relief Support through Knowledge Graphs</a>. In Proceedings of the 11th on Knowledge Capture Conference (pp. 285-288).
 
-### Provacations
+### Provocations
 - <b>Liu, Z.</b>, Currier, K., & Janowicz, K. (2024). <a href="https://globalaicultures.github.io/pdf/15_making_geographic_space_explic.pdf">Making Geographic Space Explicit in Probing Multimodal Large Language Models for Cultural Subjects</a>. [Presented at <a href="https://globalaicultures.github.io/">the Global AI Cultures workshop</a> in ICLR 2024]
 
 ### Experimental Visualizations (Projects from <a href="https://vislab.mat.ucsb.edu/courses.html">UCSB MAT 259</a>)
@@ -43,6 +43,9 @@
 ### Volunteer Projects
 - UC Santa Barbara Global Engagement Map <a href="https://map.globalengagement.ucsb.edu/">[demo]</a>
 - Chinese Tutotorials for Mapbox Developers <a href="https://github.com/mapbox-developer-group/Chinese-Tutorial">[repo]</a>
+
+### Undergraduate Projects
+- Analysis of Students' Familiarity with UCSB Campus, spatial\@ucsb.local: Spatial Data for Smarter Cities <a href="https://spatial.ucsb.edu/sites/default/files/2022-04/spatial%40local%202019%20Posters.pdf">[poster]</a>
 
 ### Committee Service
 - Program committee member, <a href='https://agile-gi.eu/conference-2024/committees-2024'>AGILE 2024</a>
