@@ -42,7 +42,7 @@
 
 ### Volunteer Projects
 - UC Santa Barbara Global Engagement Map <a href="https://map.globalengagement.ucsb.edu/">[demo]</a>
-- Chinese Tutorials for Mapbox Developers <a href="https://github.com/mapbox-developer-group/Chinese-Tutorial">[repo]</a>
+- Chinese Tutorial for Mapbox Developers <a href="https://github.com/mapbox-developer-group/Chinese-Tutorial">[repo]</a>
 
 ### Undergraduate Projects
 - Analysis of Students' Familiarity with UCSB Campus, <a href="https://spatial.ucsb.edu/sites/default/files/2022-04/2019-Agenda.pdf">spatial@ucsb.local2019: Spatial Data for Smarter Cities</a> <a href="https://spatial.ucsb.edu/sites/default/files/2022-04/spatial%40local%202019%20Posters.pdf">[poster]</a>
