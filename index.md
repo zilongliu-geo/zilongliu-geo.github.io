@@ -36,25 +36,14 @@
 ### Provocations
 - <b>Liu, Z.</b>, Currier, K., & Janowicz, K. (2024). <a href="https://globalaicultures.github.io/pdf/15_making_geographic_space_explic.pdf">Making Geographic Space Explicit in Probing Multimodal Large Language Models for Cultural Subjects</a>. [Presented at <a href="https://globalaicultures.github.io/">the Global AI Cultures workshop</a> in ICLR 2024]
 
-### Experimental Visualizations (Projects from <a href="https://vislab.mat.ucsb.edu/courses.html">UCSB MAT 259</a>)
-- Place Names in the Semantic Space <a href="https://vislab.mat.ucsb.edu/2022/p2/ZilongLiu/Project2_Zilong_Liu.html">[repo]</a>
-- Hazard Entity Rainfall in KnowWhereGraph <a href="https://vislab.mat.ucsb.edu/2022/p3/ZilongLiu/Project3_Zilong_Liu.html">[repo]</a>
-
-### Volunteer Projects
-- UC Santa Barbara Global Engagement Map <a href="https://map.globalengagement.ucsb.edu/">[demo]</a>
-- Chinese Tutorial for Mapbox Developers <a href="https://github.com/mapbox-developer-group/Chinese-Tutorial">[repo]</a>
-
-### Undergraduate Projects
-- Analysis of Students' Familiarity with UCSB Campus, <a href="https://spatial.ucsb.edu/sites/default/files/2022-04/2019-Agenda.pdf">spatial@ucsb.local2019: Spatial Data for Smarter Cities</a> <a href="https://spatial.ucsb.edu/sites/default/files/2022-04/spatial%40local%202019%20Posters.pdf">[poster]</a>
-
 ### Committee Service
+- Student volunteer, <a href='https://geographie.univie.ac.at/en/working-groups/spatial-data-science-and-geocommunication/events/sdss/'>Spatial Data Science Symposium</a>, 2022-present
+- Student organizer, GIS Day@univie, 2022-present
 - Program committee member, <a href='https://agile-gi.eu/conference-2024/committees-2024'>AGILE 2024</a>
 - Leading tutorial organizer, <a href='https://knowwheregraph.github.io/kg-geoenrichment-tutorial-iswc2023/'>Knowing Where via Knowledge Graph-based GeoEnrichment</a>, the 22<sup>nd</sup> International Semantic Web Conference
-- Student volunteer, <a href='http://sdss2023.spatial-data-science.net/'>the 4<sup>th</sup> Spatial Data Science Symposium</a>
 - Student organizer, Seminar Talk on KnowWhereGraph, Knowledge Graphs, and GeoAI <a href='mmexport1717331590278.jpg'>[GEO@ECNU]</a> <a href='mmexport1717331585075.jpg'>[LREIS@CAS]</a> 
 - Student volunteer, <a href='https://geographie.univie.ac.at/arbeitsgruppen/kartographie-und-geoinformation/publikationen/detailansicht/news/geography-according-to-chatgpt/'>Geography according to ChatGPT</a>
-- Student volunteer, <a href='http://sdss2022.spatial-data-science.net/'>the 3<sup>rd</sup> Spatial Data Science Symposium</a>
-- Participant and note taker, <a href="https://www.aag.org/events/summit-on-locational-information-and-the-public-interest/">the GeoEthics Summit</a>
+- Note taker, <a href="https://www.aag.org/events/summit-on-locational-information-and-the-public-interest/">the GeoEthics Summit</a>
 
 ### Teaching
 - <a href='https://ufind.univie.ac.at/en/course.html?lv=290006&semester=2024S'>Open GIS and Open Data in Geoinformation</a>, University of Vienna (2024S, Co-instructor)
@@ -72,3 +61,14 @@
 - Jack and Laura Dangermond Travel Scholarship, UC Santa Barbara (Spring 2022)
 - Jack and Laura Dangermond Scholarship, UC Santa Barbara (Spring 2021)
 - China National Scholarship, East China Normal University (2017)
+
+### Experimental Visualizations (Projects from <a href="https://vislab.mat.ucsb.edu/courses.html">UCSB MAT 259</a>)
+- Place Names in the Semantic Space <a href="https://vislab.mat.ucsb.edu/2022/p2/ZilongLiu/Project2_Zilong_Liu.html">[repo]</a>
+- Hazard Entity Rainfall in KnowWhereGraph <a href="https://vislab.mat.ucsb.edu/2022/p3/ZilongLiu/Project3_Zilong_Liu.html">[repo]</a>
+
+### Volunteer Projects
+- UC Santa Barbara Global Engagement Map <a href="https://map.globalengagement.ucsb.edu/">[demo]</a>
+- Chinese Tutorial for Mapbox Developers <a href="https://github.com/mapbox-developer-group/Chinese-Tutorial">[repo]</a>
+
+### Undergraduate Projects
+- Analysis of Students' Familiarity with UCSB Campus, <a href="https://spatial.ucsb.edu/sites/default/files/2022-04/2019-Agenda.pdf">spatial@ucsb.local2019: Spatial Data for Smarter Cities</a> <a href="https://spatial.ucsb.edu/sites/default/files/2022-04/spatial%40local%202019%20Posters.pdf">[poster]</a>
