@@ -43,7 +43,7 @@
 - Leading tutorial organizer, <a href='https://knowwheregraph.github.io/kg-geoenrichment-tutorial-iswc2023/'>Knowing Where via Knowledge Graph-based GeoEnrichment</a>, the 22<sup>nd</sup> International Semantic Web Conference
 - Student organizer, Seminar Talk on KnowWhereGraph, Knowledge Graphs, and GeoAI <a href='mmexport1717331590278.jpg'>[GEO@ECNU]</a> <a href='mmexport1717331585075.jpg'>[LREIS@CAS]</a> 
 - Student volunteer, <a href='https://geographie.univie.ac.at/arbeitsgruppen/kartographie-und-geoinformation/publikationen/detailansicht/news/geography-according-to-chatgpt/'>Geography according to ChatGPT</a>
-- Note taker, <a href="https://www.aag.org/events/summit-on-locational-information-and-the-public-interest/">the GeoEthics Summit</a>
+- Note taker and participant, <a href="https://www.aag.org/events/summit-on-locational-information-and-the-public-interest/">the GeoEthics Summit</a>
 
 ### Teaching
 - <a href='https://ufind.univie.ac.at/en/course.html?lv=290006&semester=2024S'>Open GIS and Open Data in Geoinformation</a>, University of Vienna (2024S, Co-instructor)
