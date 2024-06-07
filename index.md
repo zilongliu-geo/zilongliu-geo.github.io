@@ -37,12 +37,12 @@
 - <b>Liu, Z.</b>, Currier, K., & Janowicz, K. (2024). <a href="https://globalaicultures.github.io/pdf/15_making_geographic_space_explic.pdf">Making Geographic Space Explicit in Probing Multimodal Large Language Models for Cultural Subjects</a>. [Presented at <a href="https://globalaicultures.github.io/">the Global AI Cultures workshop</a> in ICLR 2024]
 
 ### Committee Service
-- Student volunteer, <a href='https://geographie.univie.ac.at/en/working-groups/spatial-data-science-and-geocommunication/events/sdss/'>Spatial Data Science Symposium</a>, 2022-present
+- Student organizer, <a href='https://geographie.univie.ac.at/en/working-groups/spatial-data-science-and-geocommunication/events/sdss/'>Spatial Data Science Symposium</a>, 2022-present
 - Student organizer, GIS Day@univie, 2022-present
 - Program committee member, <a href='https://agile-gi.eu/conference-2024/committees-2024'>AGILE 2024</a>
 - Leading tutorial organizer, <a href='https://knowwheregraph.github.io/kg-geoenrichment-tutorial-iswc2023/'>Knowing Where via Knowledge Graph-based GeoEnrichment</a>, the 22<sup>nd</sup> International Semantic Web Conference
 - Student organizer, Seminar Talk on KnowWhereGraph, Knowledge Graphs, and GeoAI <a href='mmexport1717331590278.jpg'>[GEO@ECNU]</a> <a href='mmexport1717331585075.jpg'>[LREIS@CAS]</a> 
-- Student volunteer, <a href='https://geographie.univie.ac.at/arbeitsgruppen/kartographie-und-geoinformation/publikationen/detailansicht/news/geography-according-to-chatgpt/'>Geography according to ChatGPT</a>
+- Student organizer, <a href='https://geographie.univie.ac.at/arbeitsgruppen/kartographie-und-geoinformation/publikationen/detailansicht/news/geography-according-to-chatgpt/'>Geography according to ChatGPT</a>
 - Note taker and participant, <a href="https://www.aag.org/events/summit-on-locational-information-and-the-public-interest/">the GeoEthics Summit</a>
 
 ### Teaching
