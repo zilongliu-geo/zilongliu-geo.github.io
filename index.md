@@ -49,9 +49,9 @@
 - Note taker and participant, <a href="https://www.aag.org/events/summit-on-locational-information-and-the-public-interest/">the GeoEthics Summit</a>
 
 ### Teaching
+- <a href='https://ufind.univie.ac.at/en/course.html?lv=290061&semester=2023W'>Principles and Methods of Application Development - Geographic Information Retrieval</a>, University of Vienna (2023W & 2024W, Co-instructor) <a href="https://meilinshi.github.io/290061-Geographic-Information-Retrieval/intro.html">[course website]</a>
 - <a href="https://ufind.univie.ac.at/en/course.html?lv=290003&semester=2024W">Introduction to Spatial Data Science</a>, University of Vienna (2024W, Co-instructor)
 - <a href='https://ufind.univie.ac.at/en/course.html?lv=290006&semester=2024S'>Open GIS and Open Data in Geoinformation</a>, University of Vienna (2024S, Co-instructor)
-- <a href='https://ufind.univie.ac.at/en/course.html?lv=290061&semester=2023W'>Principles and Methods of Application Development - Geographic Information Retrieval</a>, University of Vienna (2023W & 2024W, Co-instructor)
 - <a href='https://ufind.univie.ac.at/en/course.html?lv=290023&semester=2023S'>Field Trip: Spatial Data Science and the City: A (North) American Perspective</a>, University of Vienna (2023S, Co-instructor)
 - GEOG 176B, Technical GIS, UC Santa Barbara (Winter 2021, Teaching Assistant)
 - GEOG 176A, Geographic Information Systems and Science, UC Santa Barbara (Fall 2020, Teaching Assistant)
