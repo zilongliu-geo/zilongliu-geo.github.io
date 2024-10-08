@@ -34,7 +34,7 @@
 - Zhu, R., Cai, L., Mai, G., Shimizu, C., Fisher, C. K., Janowicz, K., ... & <b>Liu, Z</b>. (2021, December). <a href="https://dl.acm.org/doi/pdf/10.1145/3460210.3493581">Providing Humanitarian Relief Support through Knowledge Graphs</a>. In Proceedings of the 11th on Knowledge Capture Conference (pp. 285-288).
 
 ### Posters
-- <b>Liu, Z.</b>, Janowicz, K., Currier, K., & Shi, M. (2024). Uncovering Regional Defaults from Photorealistic Forests in Text-to-Image Generation with DALL·E 2. 16th International Conference on Spatial Information Theory (COSIT 2024). [Forthcoming] <span style="color:red">*Best Poster Candidate</span>
+- <b>Liu, Z.</b>, Janowicz, K., Currier, K., & Shi, M. (2024). <a href="https://www.researchgate.net/publication/384730248_Uncovering_Regional_Defaults_from_Photorealistic_Forests_in_Text-to-Image_Generation_with_DALLE_2">Uncovering Regional Defaults from Photorealistic Forests in Text-to-Image Generation with DALL·E 2</a>. 16th International Conference on Spatial Information Theory (COSIT 2024). <span style="color:red">*Best Poster Candidate</span>
 
 ### Provocations
 - <b>Liu, Z.</b>, Currier, K., & Janowicz, K. (2024). <a href="https://globalaicultures.github.io/pdf/15_making_geographic_space_explic.pdf">Making Geographic Space Explicit in Probing Multimodal Large Language Models for Cultural Subjects</a>. [Presented at <a href="https://globalaicultures.github.io/">the Global AI Cultures workshop</a> in ICLR 2024]
