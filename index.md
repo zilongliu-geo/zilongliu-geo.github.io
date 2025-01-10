@@ -39,7 +39,7 @@
 
 ### Posters
 - <b>Liu, Z.</b>, Janowicz, K., Currier, K., & Shi, M. (2024). <a href="https://www.researchgate.net/publication/384730248_Uncovering_Regional_Defaults_from_Photorealistic_Forests_in_Text-to-Image_Generation_with_DALLE_2">Uncovering Regional Defaults from Photorealistic Forests in Text-to-Image Generation with DALL·E 2</a>. 16th International Conference on Spatial Information Theory (COSIT 2024). <span style="color:red">*Best Poster Candidate</span>
-- <b>Liu, Z.</b>. <a href="https://github.com/zilongliu-geo/zilongliu-geo.github.io/blob/5bd1967aa567baf11e12f0b9d0f295b2ddbb80a2/_ISWS_2024_Poster__A_Glimpse_into_Geographic_Diversity_of_GenAI_with_Scale_based_Evaluation.pdfased_Evaluation.pdf">A Glimpse into Geographic Diversity of Generative AI with Scale-based Evaluation. [Presented at <a href="https://2024.semanticwebschool.org/poster-wednesday.html">the International Semantic Web Research Summer School 2024</a>]
+- <b>Liu, Z.</b>. <a href="https://github.com/zilongliu-geo/zilongliu-geo.github.io/blob/main/_ISWS_2024_Poster__A_Glimpse_into_Geographic_Diversity_of_GenAI_with_Scale_based_Evaluation.pdf">A Glimpse into Geographic Diversity of Generative AI with Scale-based Evaluation. [Presented at <a href="https://2024.semanticwebschool.org/poster-wednesday.html">the International Semantic Web Research Summer School 2024</a>]
 
 ### Provocations
 - <b>Liu, Z.</b>, Currier, K., & Janowicz, K. (2024). <a href="https://globalaicultures.github.io/pdf/15_making_geographic_space_explic.pdf">Making Geographic Space Explicit in Probing Multimodal Large Language Models for Cultural Subjects</a>. [Presented at <a href="https://globalaicultures.github.io/">the Global AI Cultures workshop</a> in ICLR 2024]
