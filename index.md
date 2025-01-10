@@ -21,7 +21,7 @@
 - Geo-semantics
 
 ### Publications
-- Shimizu, C., Stephe, S., Barua, A., Cai, L., Christou, A., Currier, K., ... & Zhu, R. (2024). <a href="https://arxiv.org/pdf/2410.13948?">The KnowWhereGraph Ontology.</a> arXiv preprint arXiv:2410.13948.
+- Shimizu, C., Stephe, S., Barua, A., Cai, L., Christou, A., Currier, K., ... & Zhu, R. (2024). <a href="https://www.sciencedirect.com/science/article/pii/S1570826824000283">The KnowWhereGraph Ontology.</a> Journal of Web Semantics.
 - Shi, M., Janowicz, K., <b>Liu, Z.</b>, & Currier, K. (2024). <a href="https://drops.dagstuhl.de/storage/00lipics/lipics-vol315-cosit2024/LIPIcs.COSIT.2024.23/LIPIcs.COSIT.2024.23.pdf">Towards Formalizing Concept Drift and Its Variants: A Case Study Using Past COSIT Proceedings (Short Paper).</a> In 16th International Conference on Spatial Information Theory (COSIT 2024). Schloss Dagstuhl–Leibniz-Zentrum für Informatik.
 - <b>Liu, Z.</b>, Janowicz, K., Currier, K., & Shi, M. (2024). <a href="https://agile-giss.copernicus.org/articles/5/38/2024/agile-giss-5-38-2024.pdf">Measuring Geographic Diversity of Foundation Models with a Natural Language--based Geo-guessing Experiment on GPT-4</a>. AGILE: GIScience Series, 5, 38.
 - Janowicz, K., Currier, K., Shimizu, C., Zhu, R., Shi, M., Fisher, C. K., ... & Stephen, S. (2023). <a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003308423-21/fast-forward-data-insight-geographic-knowledge-graphs-applications-krzysztof-janowicz-kitty-currier-cogan-shimizu-rui-zhu-meilin-shi-colby-fisher-dean-rehberger-pascal-hitzler-zilong-liu-shirly-stephen">Fast Forward from Data to Insight:(Geographic) Knowledge Graphs and Their Applications</a>. In Handbook of Geospatial Artificial Intelligence (pp. 411-426). CRC Press.
@@ -39,6 +39,7 @@
 
 ### Posters
 - <b>Liu, Z.</b>, Janowicz, K., Currier, K., & Shi, M. (2024). <a href="https://www.researchgate.net/publication/384730248_Uncovering_Regional_Defaults_from_Photorealistic_Forests_in_Text-to-Image_Generation_with_DALLE_2">Uncovering Regional Defaults from Photorealistic Forests in Text-to-Image Generation with DALL·E 2</a>. 16th International Conference on Spatial Information Theory (COSIT 2024). <span style="color:red">*Best Poster Candidate</span>
+- <b>Liu, Z.</b>. <a href="_ISWS_2024_Poster__A_Glimpse_into_Geographic_Diversity_of_GenAI_with_Scale_based_Evaluation.pdf">A Glimpse into Geographic Diversity of Generative AI with Scale-based Evaluation. [Presented at <a href="https://2024.semanticwebschool.org/poster-wednesday.html">the Global AI Cultures workshop</a> in ISWS 2024.]
 
 ### Provocations
 - <b>Liu, Z.</b>, Currier, K., & Janowicz, K. (2024). <a href="https://globalaicultures.github.io/pdf/15_making_geographic_space_explic.pdf">Making Geographic Space Explicit in Probing Multimodal Large Language Models for Cultural Subjects</a>. [Presented at <a href="https://globalaicultures.github.io/">the Global AI Cultures workshop</a> in ICLR 2024]
