@@ -21,6 +21,8 @@
 - Geo-semantics
 
 ### Publications
+- Shi, M., Janowicz, K., Verstegen, J., Currier, K., Wiedemann, N., Mai, G., ... & Zhu, R. (2025). <a href="https://www.tandfonline.com/doi/pdf/10.1080/15230406.2025.2479796">Geography for AI sustainability and sustainability for GeoAI</a>. Cartography and Geographic Information Science, 1-19.
+- Zhu, R., Shimizu, C., Stephen, S., Fisher, C. K., Thelen, T., Currier, K., ... & Zalewski, J. (2025). <a href="https://arxiv.org/pdf/2502.13874">The KnowWhereGraph: A Large-Scale Geo-Knowledge Graph for Interdisciplinary Knowledge Discovery and Geo-Enrichment</a>. arXiv preprint arXiv:2502.13874.
 - Shimizu, C., Stephen, S., Barua, A., Cai, L., Christou, A., Currier, K., ... & Zhu, R. (2024). <a href="https://www.sciencedirect.com/science/article/pii/S1570826824000283">The KnowWhereGraph Ontology.</a> Journal of Web Semantics.
 - Shi, M., Janowicz, K., <b>Liu, Z.</b>, & Currier, K. (2024). <a href="https://drops.dagstuhl.de/storage/00lipics/lipics-vol315-cosit2024/LIPIcs.COSIT.2024.23/LIPIcs.COSIT.2024.23.pdf">Towards Formalizing Concept Drift and Its Variants: A Case Study Using Past COSIT Proceedings (Short Paper).</a> In 16th International Conference on Spatial Information Theory (COSIT 2024). Schloss Dagstuhl–Leibniz-Zentrum für Informatik.
 - <b>Liu, Z.</b>, Janowicz, K., Currier, K., & Shi, M. (2024). <a href="https://agile-giss.copernicus.org/articles/5/38/2024/agile-giss-5-38-2024.pdf">Measuring Geographic Diversity of Foundation Models with a Natural Language--based Geo-guessing Experiment on GPT-4</a>. AGILE: GIScience Series, 5, 38.
@@ -56,7 +58,7 @@
 ### Teaching
 - <a href='https://ufind.univie.ac.at/en/course.html?lv=290061&semester=2023W'>Principles and Methods of Application Development - Geographic Information Retrieval</a>, University of Vienna (2023W & 2024W, Co-instructor) <a href="https://meilinshi.github.io/290061-Geographic-Information-Retrieval/intro.html">[course website]</a>
 - <a href="https://ufind.univie.ac.at/en/course.html?lv=290003&semester=2024W">Introduction to Spatial Data Science</a>, University of Vienna (2024W, Co-instructor)
-- <a href='https://ufind.univie.ac.at/en/course.html?lv=290006&semester=2024S'>Open GIS and Open Data in Geoinformation</a>, University of Vienna (2024S, Co-instructor)
+- <a href='https://ufind.univie.ac.at/en/course.html?lv=290006&semester=2024S'>Open GIS and Open Data in Geoinformation</a>, University of Vienna (2023S & 2024S, Co-instructor)
 - <a href='https://ufind.univie.ac.at/en/course.html?lv=290023&semester=2023S'>Field Trip: Spatial Data Science and the City: A (North) American Perspective</a>, University of Vienna (2023S, Co-instructor)
 - GEOG 176B, Technical GIS, UC Santa Barbara (Winter 2021, Teaching Assistant)
 - GEOG 176A, Geographic Information Systems and Science, UC Santa Barbara (Fall 2020, Teaching Assistant)
