@@ -58,11 +58,11 @@
 - Note taker and participant, <a href="https://www.aag.org/events/summit-on-locational-information-and-the-public-interest/">the GeoEthics Summit</a>
 
 ### Peer Reviewer
-- CVPR 2025 DemoDiv
+- 2025 CVPR Workshop on Demographic Diversity in Computer Vision
 - International Journal of Geographical Information Science
-- Geography According to ChatGPT
+- Geography according to ChatGPT
 - The ACM Web Conference 2024
-- NeurIPS 2023 CompSust
+- 2023 NeurIPS Workshop on Computational Sustainability
 - AGILE 2022 & 2023
 
 ### Teaching
