@@ -57,6 +57,14 @@
 - Student organizer, <a href='https://geographie.univie.ac.at/arbeitsgruppen/kartographie-und-geoinformation/publikationen/detailansicht/news/geography-according-to-chatgpt/'>Geography according to ChatGPT</a>
 - Note taker and participant, <a href="https://www.aag.org/events/summit-on-locational-information-and-the-public-interest/">the GeoEthics Summit</a>
 
+### Peer Reviewer
+- CVPR 2025 DemoDiv
+- International Journal of Geographical Information Science
+- Geography According to ChatGPT
+- The ACM Web Conference 2024
+- NeurIPS 2023 CompSust
+- AGILE 2022 & 2023
+
 ### Teaching
 - <a href='https://ufind.univie.ac.at/en/course.html?lv=290061&semester=2024W'>Principles and Methods of Application Development - Geographic Information Retrieval</a>, University of Vienna (2023W & 2024W, Co-instructor) <a href="https://meilinshi.github.io/290061-Geographic-Information-Retrieval/intro.html">[course website]</a>
 - <a href='https://ufind.univie.ac.at/en/course.html?lv=290006&semester=2024S'>Open GIS and Open Data in Geoinformation</a>, University of Vienna (2023S & 2024S, Co-instructor)
