@@ -49,6 +49,7 @@
 ### Committee Service
 - Student organizer, <a href='https://planetearthday.univie.ac.at/'>Planet Earth Day@Uni Wien</a>, 2025
 - Student organizer, <a href='https://datascience.univie.ac.at/news-jobs/news-detail/news/vienna-daughters-day-2025/?no_cache=1&cHash=2dd7bb60eba64010367e5804e1a68749'>Vienna Daughters' Day 2025</a>, 2025
+- Student organizer, <a href='https://geographie.univie.ac.at/arbeitsgruppen/kartographie-und-geoinformation/events/sociotechnical-foundations-of-geoai-and-spatial-data-science/'>Sociotechnical Foundations of GeoAI and Spatial Data Science</a>, 2024
 - Student organizer, <a href='https://geographie.univie.ac.at/en/working-groups/spatial-data-science-and-geocommunication/events/sdss/'>Spatial Data Science Symposium</a>, 2022-2024
 - Student organizer, GIS Day@univie, 2022-2024
 - Program committee member, <a href='https://agile-gi.eu/conference-2024/committees-2024'>AGILE 2024</a>
@@ -58,11 +59,11 @@
 - Note taker and participant, <a href="https://www.aag.org/events/summit-on-locational-information-and-the-public-interest/">the GeoEthics Summit</a>
 
 ### Peer Reviewer
-- 2025 CVPR Workshop on Demographic Diversity in Computer Vision
+- 2025 CVPR Workshop on <a href='https://sites.google.com/view/cvpr-2025-demodiv/'>Demographic Diversity in Computer Vision</a>
 - International Journal of Geographical Information Science
 - Geography according to ChatGPT
 - The ACM Web Conference 2024
-- 2023 NeurIPS Workshop on Computational Sustainability
+- 2023 NeurIPS Workshop on <a href='https://www.compsust.net/compsust-2023/'>Computational Sustainability</a>
 - AGILE 2022 & 2023
 
 ### Teaching
