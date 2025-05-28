@@ -21,7 +21,8 @@
 - Geo-semantics
 
 ### Publications
-- Shi, M., Janowicz, K., <b>Liu, Z.</b>, Karimi, M., Majic, I., & Fortacz, A. (2025). <a href='https://doi.org/10.1111/tgis.70058'>Defining Concept Drift and Its Variants in Research Data Management: A Scientometric Case Study on Geographic Information Science.</a> Transactions in GIS.
+- <b>Liu, Z.</b>, Janowicz, K., Majic, I., Shi, M., Fortacz, A., Karimi, M., Mai, G., & Currier, K. (2025). <a href='https://onlinelibrary.wiley.com/doi/pdf/10.1111/tgis.70057'>Operationalizing Geographic Diversity for the Evaluation of AI‐Generated Content</a>. Transactions in GIS, 29(3), e70057.
+- Shi, M., Janowicz, K., <b>Liu, Z.</b>, Karimi, M., Majic, I., & Fortacz, A. (2025). <a href='https://doi.org/10.1111/tgis.70058'>Defining Concept Drift and Its Variants in Research Data Management: A Scientometric Case Study on Geographic Information Science</a>. Transactions in GIS, 29(3), e70058.
 - Shi, M., Janowicz, K., Verstegen, J., Currier, K., Wiedemann, N., Mai, G., ... & Zhu, R. (2025). <a href="https://www.tandfonline.com/doi/pdf/10.1080/15230406.2025.2479796">Geography for AI sustainability and sustainability for GeoAI</a>. Cartography and Geographic Information Science, 1-19.
 - Zhu, R., Shimizu, C., Stephen, S., Fisher, C. K., Thelen, T., Currier, K., ... & Zalewski, J. (2025). <a href="https://arxiv.org/pdf/2502.13874">The KnowWhereGraph: A Large-Scale Geo-Knowledge Graph for Interdisciplinary Knowledge Discovery and Geo-Enrichment</a>. arXiv preprint arXiv:2502.13874.
 - Shimizu, C., Stephen, S., Barua, A., Cai, L., Christou, A., Currier, K., ... & Zhu, R. (2024). <a href="https://www.sciencedirect.com/science/article/pii/S1570826824000283">The KnowWhereGraph Ontology.</a> Journal of Web Semantics.
